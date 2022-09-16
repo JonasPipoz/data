@@ -21,7 +21,7 @@ Suisse;2019;UDF;1
 Suisse;2019;PSL;
 Suisse;2019;Lega;0.75
 Suisse;2019;MCR;0.22
-Suisse;2019;Sép.;
+Suisse;2019;Sep.;
 Suisse;2019;Autres;1.84
 Suisse;2015;PLR;16.4
 Suisse;2015;PDC;11.65
@@ -45,7 +45,7 @@ Suisse;2015;UDF;1.19
 Suisse;2015;PSL;
 Suisse;2015;Lega;1
 Suisse;2015;MCR;0.32
-Suisse;2015;Sép.;
+Suisse;2015;Sep.;
 Suisse;2015;Autres;2
 Suisse;2011;PLR;15.1
 Suisse;2011;PDC;12.3
@@ -69,7 +69,7 @@ Suisse;2011;UDF;1.27
 Suisse;2011;PSL;
 Suisse;2011;Lega;0.8
 Suisse;2011;MCR;0.44
-Suisse;2011;Sép.;
+Suisse;2011;Sep.;
 Suisse;2011;Autres;1.91
 Suisse;2007;PLR;15.76
 Suisse;2007;PDC;14.48
@@ -93,7 +93,7 @@ Suisse;2007;UDF;1.28
 Suisse;2007;PSL;0.1
 Suisse;2007;Lega;0.58
 Suisse;2007;MCR;0.12
-Suisse;2007;Sép.;
+Suisse;2007;Sep.;
 Suisse;2007;Autres;1.66
 Suisse;2003;PLR;17.34
 Suisse;2003;PDC;14.36
@@ -117,7 +117,7 @@ Suisse;2003;UDF;1.26
 Suisse;2003;PSL;0.19
 Suisse;2003;Lega;0.35
 Suisse;2003;MCR;
-Suisse;2003;Sép.;0.26
+Suisse;2003;Sep.;0.26
 Suisse;2003;Autres;1.3
 Suisse;1999;PLR;19.92
 Suisse;1999;PDC;15.85
@@ -141,7 +141,7 @@ Suisse;1999;UDF;1.25
 Suisse;1999;PSL;0.87
 Suisse;1999;Lega;0.88
 Suisse;1999;MCR;
-Suisse;1999;Sép.;
+Suisse;1999;Sep.;
 Suisse;1999;Autres;2.41
 Suisse;1995;PLR;20.18
 Suisse;1995;PDC;16.79
@@ -165,7 +165,7 @@ Suisse;1995;UDF;1.3
 Suisse;1995;PSL;3.97
 Suisse;1995;Lega;0.94
 Suisse;1995;MCR;
-Suisse;1995;Sép.;0.21
+Suisse;1995;Sep.;0.21
 Suisse;1995;Autres;2.15
 Suisse;1991;PLR;20.99
 Suisse;1991;PDC;18
@@ -189,7 +189,7 @@ Suisse;1991;UDF;1
 Suisse;1991;PSL;5.07
 Suisse;1991;Lega;1.38
 Suisse;1991;MCR;
-Suisse;1991;Sép.;0.26
+Suisse;1991;Sep.;0.26
 Suisse;1991;Autres;2.46
 Suisse;1987;PLR;22.93
 Suisse;1987;PDC;19.58
@@ -213,7 +213,7 @@ Suisse;1987;UDF;0.92
 Suisse;1987;PSL;2.6
 Suisse;1987;Lega;
 Suisse;1987;MCR;
-Suisse;1987;Sép.;0.15
+Suisse;1987;Sep.;0.15
 Suisse;1987;Autres;2.46
 Suisse;1983;PLR;23.33
 Suisse;1983;PDC;20.22
@@ -237,7 +237,7 @@ Suisse;1983;UDF;0.39
 Suisse;1983;PSL;
 Suisse;1983;Lega;
 Suisse;1983;MCR;
-Suisse;1983;Sép.;0.34
+Suisse;1983;Sep.;0.34
 Suisse;1983;Autres;2.49
 Suisse;1979;PLR;24.01
 Suisse;1979;PDC;21.29
@@ -261,7 +261,7 @@ Suisse;1979;UDF;0.25
 Suisse;1979;PSL;
 Suisse;1979;Lega;
 Suisse;1979;MCR;
-Suisse;1979;Sép.;0.46
+Suisse;1979;Sep.;0.46
 Suisse;1979;Autres;1.88
 Suisse;1975;PLR;22.21
 Suisse;1975;PDC;21.09
@@ -285,7 +285,7 @@ Suisse;1975;UDF;0.35
 Suisse;1975;PSL;
 Suisse;1975;Lega;
 Suisse;1975;MCR;
-Suisse;1975;Sép.;0.32
+Suisse;1975;Sep.;0.32
 Suisse;1975;Autres;1.38
 Suisse;1971;PLR;21.81
 Suisse;1971;PDC;20.33
@@ -309,7 +309,7 @@ Suisse;1971;UDF;
 Suisse;1971;PSL;
 Suisse;1971;Lega;
 Suisse;1971;MCR;
-Suisse;1971;Sép.;
+Suisse;1971;Sep.;
 Suisse;1971;Autres;1.23
 Zürich;2019;PLR;13.66
 Zürich;2019;PDC;4.41
@@ -333,7 +333,7 @@ Zürich;2019;UDF;1.61
 Zürich;2019;PSL;
 Zürich;2019;Lega;
 Zürich;2019;MCR;
-Zürich;2019;Sép.;
+Zürich;2019;Sep.;
 Zürich;2019;Autres;1.19
 Zürich;2015;PLR;15.32
 Zürich;2015;PDC;4.18
@@ -357,7 +357,7 @@ Zürich;2015;UDF;2.06
 Zürich;2015;PSL;
 Zürich;2015;Lega;
 Zürich;2015;MCR;
-Zürich;2015;Sép.;
+Zürich;2015;Sep.;
 Zürich;2015;Autres;2.38
 Zürich;2011;PLR;11.64
 Zürich;2011;PDC;5.03
@@ -381,7 +381,7 @@ Zürich;2011;UDF;2.17
 Zürich;2011;PSL;
 Zürich;2011;Lega;
 Zürich;2011;MCR;
-Zürich;2011;Sép.;
+Zürich;2011;Sep.;
 Zürich;2011;Autres;2.12
 Zürich;2007;PLR;13.15
 Zürich;2007;PDC;7.56
@@ -405,7 +405,7 @@ Zürich;2007;UDF;2.12
 Zürich;2007;PSL;0.08
 Zürich;2007;Lega;
 Zürich;2007;MCR;
-Zürich;2007;Sép.;
+Zürich;2007;Sep.;
 Zürich;2007;Autres;0.28
 Zürich;2003;PLR;16.24
 Zürich;2003;PDC;5.43
@@ -429,7 +429,7 @@ Zürich;2003;UDF;2.06
 Zürich;2003;PSL;0.09
 Zürich;2003;Lega;
 Zürich;2003;MCR;
-Zürich;2003;Sép.;
+Zürich;2003;Sep.;
 Zürich;2003;Autres;2.24
 Zürich;1999;PLR;17.82
 Zürich;1999;PDC;5.12
@@ -453,7 +453,7 @@ Zürich;1999;UDF;1.76
 Zürich;1999;PSL;0.82
 Zürich;1999;Lega;
 Zürich;1999;MCR;
-Zürich;1999;Sép.;
+Zürich;1999;Sep.;
 Zürich;1999;Autres;3.03
 Zürich;1995;PLR;18.1
 Zürich;1995;PDC;4.87
@@ -477,7 +477,7 @@ Zürich;1995;UDF;1.86
 Zürich;1995;PSL;3.54
 Zürich;1995;Lega;
 Zürich;1995;MCR;
-Zürich;1995;Sép.;
+Zürich;1995;Sep.;
 Zürich;1995;Autres;0.87
 Zürich;1991;PLR;18.66
 Zürich;1991;PDC;5.9
@@ -501,7 +501,7 @@ Zürich;1991;UDF;1.77
 Zürich;1991;PSL;5.93
 Zürich;1991;Lega;
 Zürich;1991;MCR;
-Zürich;1991;Sép.;
+Zürich;1991;Sep.;
 Zürich;1991;Autres;3.26
 Zürich;1987;PLR;20.33
 Zürich;1987;PDC;7.13
@@ -525,7 +525,7 @@ Zürich;1987;UDF;1.76
 Zürich;1987;PSL;3.76
 Zürich;1987;Lega;
 Zürich;1987;MCR;
-Zürich;1987;Sép.;
+Zürich;1987;Sep.;
 Zürich;1987;Autres;0.85
 Zürich;1983;PLR;21.79
 Zürich;1983;PDC;9.08
@@ -549,7 +549,7 @@ Zürich;1983;UDF;0.58
 Zürich;1983;PSL;
 Zürich;1983;Lega;
 Zürich;1983;MCR;
-Zürich;1983;Sép.;
+Zürich;1983;Sep.;
 Zürich;1983;Autres;1.54
 Zürich;1979;PLR;22.38
 Zürich;1979;PDC;9.71
@@ -573,7 +573,7 @@ Zürich;1979;UDF;0.35
 Zürich;1979;PSL;
 Zürich;1979;Lega;
 Zürich;1979;MCR;
-Zürich;1979;Sép.;
+Zürich;1979;Sep.;
 Zürich;1979;Autres;1.55
 Zürich;1975;PLR;18.46
 Zürich;1975;PDC;9.37
@@ -597,7 +597,7 @@ Zürich;1975;UDF;0.52
 Zürich;1975;PSL;
 Zürich;1975;Lega;
 Zürich;1975;MCR;
-Zürich;1975;Sép.;
+Zürich;1975;Sep.;
 Zürich;1975;Autres;2.19
 Zürich;1971;PLR;16.76
 Zürich;1971;PDC;9.54
@@ -621,7 +621,7 @@ Zürich;1971;UDF;
 Zürich;1971;PSL;
 Zürich;1971;Lega;
 Zürich;1971;MCR;
-Zürich;1971;Sép.;
+Zürich;1971;Sep.;
 Zürich;1971;Autres;1.99
 Bern / Berne;2019;PLR;8.36
 Bern / Berne;2019;PDC;1.87
@@ -645,7 +645,7 @@ Bern / Berne;2019;UDF;2.45
 Bern / Berne;2019;PSL;
 Bern / Berne;2019;Lega;
 Bern / Berne;2019;MCR;
-Bern / Berne;2019;Sép.;
+Bern / Berne;2019;Sep.;
 Bern / Berne;2019;Autres;3.94
 Bern / Berne;2015;PLR;9.33
 Bern / Berne;2015;PDC;1.83
@@ -669,7 +669,7 @@ Bern / Berne;2015;UDF;2.84
 Bern / Berne;2015;PSL;
 Bern / Berne;2015;Lega;
 Bern / Berne;2015;MCR;
-Bern / Berne;2015;Sép.;
+Bern / Berne;2015;Sep.;
 Bern / Berne;2015;Autres;1.66
 Bern / Berne;2011;PLR;8.66
 Bern / Berne;2011;PDC;2.07
@@ -693,7 +693,7 @@ Bern / Berne;2011;UDF;3.1
 Bern / Berne;2011;PSL;
 Bern / Berne;2011;Lega;
 Bern / Berne;2011;MCR;
-Bern / Berne;2011;Sép.;
+Bern / Berne;2011;Sep.;
 Bern / Berne;2011;Autres;2.73
 Bern / Berne;2007;PLR;15.12
 Bern / Berne;2007;PDC;4.75
@@ -717,7 +717,7 @@ Bern / Berne;2007;UDF;3.55
 Bern / Berne;2007;PSL;0.62
 Bern / Berne;2007;Lega;
 Bern / Berne;2007;MCR;
-Bern / Berne;2007;Sép.;
+Bern / Berne;2007;Sep.;
 Bern / Berne;2007;Autres;1.33
 Bern / Berne;2003;PLR;14.8
 Bern / Berne;2003;PDC;2.34
@@ -741,7 +741,7 @@ Bern / Berne;2003;UDF;4.1
 Bern / Berne;2003;PSL;1.05
 Bern / Berne;2003;Lega;
 Bern / Berne;2003;MCR;
-Bern / Berne;2003;Sép.;1.95
+Bern / Berne;2003;Sep.;1.95
 Bern / Berne;2003;Autres;1.09
 Bern / Berne;1999;PLR;17.18
 Bern / Berne;1999;PDC;2.42
@@ -765,7 +765,7 @@ Bern / Berne;1999;UDF;3.95
 Bern / Berne;1999;PSL;2.74
 Bern / Berne;1999;Lega;
 Bern / Berne;1999;MCR;
-Bern / Berne;1999;Sép.;
+Bern / Berne;1999;Sep.;
 Bern / Berne;1999;Autres;1.65
 Bern / Berne;1995;PLR;15.65
 Bern / Berne;1995;PDC;1.85
@@ -789,7 +789,7 @@ Bern / Berne;1995;UDF;4.17
 Bern / Berne;1995;PSL;5.86
 Bern / Berne;1995;Lega;
 Bern / Berne;1995;MCR;
-Bern / Berne;1995;Sép.;1.46
+Bern / Berne;1995;Sep.;1.46
 Bern / Berne;1995;Autres;0.52
 Bern / Berne;1991;PLR;13.66
 Bern / Berne;1991;PDC;2.57
@@ -813,7 +813,7 @@ Bern / Berne;1991;UDF;3.44
 Bern / Berne;1991;PSL;6.84
 Bern / Berne;1991;Lega;
 Bern / Berne;1991;MCR;
-Bern / Berne;1991;Sép.;1.68
+Bern / Berne;1991;Sep.;1.68
 Bern / Berne;1991;Autres;1.18
 Bern / Berne;1987;PLR;16.11
 Bern / Berne;1987;PDC;2.36
@@ -837,7 +837,7 @@ Bern / Berne;1987;UDF;2.71
 Bern / Berne;1987;PSL;3.16
 Bern / Berne;1987;Lega;
 Bern / Berne;1987;MCR;
-Bern / Berne;1987;Sép.;0.97
+Bern / Berne;1987;Sep.;0.97
 Bern / Berne;1987;Autres;2.64
 Bern / Berne;1983;PLR;15.1
 Bern / Berne;1983;PDC;2.14
@@ -861,7 +861,7 @@ Bern / Berne;1983;UDF;1.81
 Bern / Berne;1983;PSL;
 Bern / Berne;1983;Lega;
 Bern / Berne;1983;MCR;
-Bern / Berne;1983;Sép.;2.15
+Bern / Berne;1983;Sep.;2.15
 Bern / Berne;1983;Autres;5.2
 Bern / Berne;1979;PLR;17.96
 Bern / Berne;1979;PDC;2.47
@@ -885,7 +885,7 @@ Bern / Berne;1979;UDF;1.17
 Bern / Berne;1979;PSL;
 Bern / Berne;1979;Lega;
 Bern / Berne;1979;MCR;
-Bern / Berne;1979;Sép.;2.8
+Bern / Berne;1979;Sep.;2.8
 Bern / Berne;1979;Autres;0.59
 Bern / Berne;1975;PLR;17.63
 Bern / Berne;1975;PDC;5.29
@@ -909,7 +909,7 @@ Bern / Berne;1975;UDF;1.08
 Bern / Berne;1975;PSL;
 Bern / Berne;1975;Lega;
 Bern / Berne;1975;MCR;
-Bern / Berne;1975;Sép.;1.83
+Bern / Berne;1975;Sep.;1.83
 Bern / Berne;1975;Autres;0.16
 Bern / Berne;1971;PLR;17.25
 Bern / Berne;1971;PDC;5.37
@@ -933,7 +933,7 @@ Bern / Berne;1971;UDF;
 Bern / Berne;1971;PSL;
 Bern / Berne;1971;Lega;
 Bern / Berne;1971;MCR;
-Bern / Berne;1971;Sép.;
+Bern / Berne;1971;Sep.;
 Bern / Berne;1971;Autres;0.04
 Luzern;2019;PLR;15.56
 Luzern;2019;PDC;25.49
@@ -957,7 +957,7 @@ Luzern;2019;UDF;
 Luzern;2019;PSL;
 Luzern;2019;Lega;
 Luzern;2019;MCR;
-Luzern;2019;Sép.;
+Luzern;2019;Sep.;
 Luzern;2019;Autres;0.5
 Luzern;2015;PLR;18.47
 Luzern;2015;PDC;23.85
@@ -981,7 +981,7 @@ Luzern;2015;UDF;
 Luzern;2015;PSL;
 Luzern;2015;Lega;
 Luzern;2015;MCR;
-Luzern;2015;Sép.;
+Luzern;2015;Sep.;
 Luzern;2015;Autres;0.68
 Luzern;2011;PLR;18.37
 Luzern;2011;PDC;27.11
@@ -1005,7 +1005,7 @@ Luzern;2011;UDF;
 Luzern;2011;PSL;
 Luzern;2011;Lega;
 Luzern;2011;MCR;
-Luzern;2011;Sép.;
+Luzern;2011;Sep.;
 Luzern;2011;Autres;0.46
 Luzern;2007;PLR;21.81
 Luzern;2007;PDC;30.22
@@ -1029,7 +1029,7 @@ Luzern;2007;UDF;
 Luzern;2007;PSL;
 Luzern;2007;Lega;
 Luzern;2007;MCR;
-Luzern;2007;Sép.;
+Luzern;2007;Sep.;
 Luzern;2007;Autres;0.99
 Luzern;2003;PLR;23.07
 Luzern;2003;PDC;29.42
@@ -1053,7 +1053,7 @@ Luzern;2003;UDF;
 Luzern;2003;PSL;
 Luzern;2003;Lega;
 Luzern;2003;MCR;
-Luzern;2003;Sép.;
+Luzern;2003;Sep.;
 Luzern;2003;Autres;2.52
 Luzern;1999;PLR;22.64
 Luzern;1999;PDC;33.82
@@ -1077,7 +1077,7 @@ Luzern;1999;UDF;
 Luzern;1999;PSL;0.34
 Luzern;1999;Lega;
 Luzern;1999;MCR;
-Luzern;1999;Sép.;
+Luzern;1999;Sep.;
 Luzern;1999;Autres;1.09
 Luzern;1995;PLR;25.48
 Luzern;1995;PDC;37.31
@@ -1101,7 +1101,7 @@ Luzern;1995;UDF;
 Luzern;1995;PSL;
 Luzern;1995;Lega;
 Luzern;1995;MCR;
-Luzern;1995;Sép.;
+Luzern;1995;Sep.;
 Luzern;1995;Autres;0.36
 Luzern;1991;PLR;27.86
 Luzern;1991;PDC;48.62
@@ -1125,7 +1125,7 @@ Luzern;1991;UDF;
 Luzern;1991;PSL;
 Luzern;1991;Lega;
 Luzern;1991;MCR;
-Luzern;1991;Sép.;
+Luzern;1991;Sep.;
 Luzern;1991;Autres;0.4
 Luzern;1987;PLR;29.8
 Luzern;1987;PDC;47.02
@@ -1149,7 +1149,7 @@ Luzern;1987;UDF;
 Luzern;1987;PSL;3.42
 Luzern;1987;Lega;
 Luzern;1987;MCR;
-Luzern;1987;Sép.;
+Luzern;1987;Sep.;
 Luzern;1987;Autres;0.6
 Luzern;1983;PLR;28.61
 Luzern;1983;PDC;49.62
@@ -1173,7 +1173,7 @@ Luzern;1983;UDF;
 Luzern;1983;PSL;
 Luzern;1983;Lega;
 Luzern;1983;MCR;
-Luzern;1983;Sép.;
+Luzern;1983;Sep.;
 Luzern;1983;Autres;0.33
 Luzern;1979;PLR;31.71
 Luzern;1979;PDC;50.45
@@ -1197,7 +1197,7 @@ Luzern;1979;UDF;
 Luzern;1979;PSL;
 Luzern;1979;Lega;
 Luzern;1979;MCR;
-Luzern;1979;Sép.;
+Luzern;1979;Sep.;
 Luzern;1979;Autres;0.19
 Luzern;1975;PLR;29.08
 Luzern;1975;PDC;50.13
@@ -1221,7 +1221,7 @@ Luzern;1975;UDF;
 Luzern;1975;PSL;
 Luzern;1975;Lega;
 Luzern;1975;MCR;
-Luzern;1975;Sép.;
+Luzern;1975;Sep.;
 Luzern;1975;Autres;0.35
 Luzern;1971;PLR;30.02
 Luzern;1971;PDC;48.84
@@ -1245,7 +1245,7 @@ Luzern;1971;UDF;
 Luzern;1971;PSL;
 Luzern;1971;Lega;
 Luzern;1971;MCR;
-Luzern;1971;Sép.;
+Luzern;1971;Sep.;
 Luzern;1971;Autres;
 Uri;2019;PLR;
 Uri;2019;PDC;39.21
@@ -1269,7 +1269,7 @@ Uri;2019;UDF;
 Uri;2019;PSL;
 Uri;2019;Lega;
 Uri;2019;MCR;
-Uri;2019;Sép.;
+Uri;2019;Sep.;
 Uri;2019;Autres;2.22
 Uri;2015;PLR;
 Uri;2015;PDC;26.85
@@ -1293,7 +1293,7 @@ Uri;2015;UDF;
 Uri;2015;PSL;
 Uri;2015;Lega;
 Uri;2015;MCR;
-Uri;2015;Sép.;
+Uri;2015;Sep.;
 Uri;2015;Autres;2.79
 Uri;2011;PLR;74.27
 Uri;2011;PDC;
@@ -1317,7 +1317,7 @@ Uri;2011;UDF;
 Uri;2011;PSL;
 Uri;2011;Lega;
 Uri;2011;MCR;
-Uri;2011;Sép.;
+Uri;2011;Sep.;
 Uri;2011;Autres;4.26
 Uri;2007;PLR;87.26
 Uri;2007;PDC;
@@ -1341,7 +1341,7 @@ Uri;2007;UDF;
 Uri;2007;PSL;
 Uri;2007;Lega;
 Uri;2007;MCR;
-Uri;2007;Sép.;
+Uri;2007;Sep.;
 Uri;2007;Autres;12.74
 Uri;2003;PLR;36.64
 Uri;2003;PDC;
@@ -1365,7 +1365,7 @@ Uri;2003;UDF;
 Uri;2003;PSL;
 Uri;2003;Lega;
 Uri;2003;MCR;
-Uri;2003;Sép.;
+Uri;2003;Sep.;
 Uri;2003;Autres;1.48
 Uri;1999;PLR;81.66
 Uri;1999;PDC;
@@ -1389,7 +1389,7 @@ Uri;1999;UDF;
 Uri;1999;PSL;
 Uri;1999;Lega;
 Uri;1999;MCR;
-Uri;1999;Sép.;
+Uri;1999;Sep.;
 Uri;1999;Autres;18.34
 Uri;1995;PLR;86.02
 Uri;1995;PDC;
@@ -1413,7 +1413,7 @@ Uri;1995;UDF;
 Uri;1995;PSL;
 Uri;1995;Lega;
 Uri;1995;MCR;
-Uri;1995;Sép.;
+Uri;1995;Sep.;
 Uri;1995;Autres;13.98
 Uri;1991;PLR;93.15
 Uri;1991;PDC;
@@ -1437,7 +1437,7 @@ Uri;1991;UDF;
 Uri;1991;PSL;
 Uri;1991;Lega;
 Uri;1991;MCR;
-Uri;1991;Sép.;
+Uri;1991;Sep.;
 Uri;1991;Autres;6.85
 Uri;1987;PLR;85.5
 Uri;1987;PDC;
@@ -1461,7 +1461,7 @@ Uri;1987;UDF;
 Uri;1987;PSL;1.71
 Uri;1987;Lega;
 Uri;1987;MCR;
-Uri;1987;Sép.;
+Uri;1987;Sep.;
 Uri;1987;Autres;12.8
 Uri;1983;PLR;84.68
 Uri;1983;PDC;
@@ -1485,7 +1485,7 @@ Uri;1983;UDF;
 Uri;1983;PSL;
 Uri;1983;Lega;
 Uri;1983;MCR;
-Uri;1983;Sép.;
+Uri;1983;Sep.;
 Uri;1983;Autres;15.32
 Uri;1979;PLR;38.99
 Uri;1979;PDC;
@@ -1509,7 +1509,7 @@ Uri;1979;UDF;
 Uri;1979;PSL;
 Uri;1979;Lega;
 Uri;1979;MCR;
-Uri;1979;Sép.;
+Uri;1979;Sep.;
 Uri;1979;Autres;37.99
 Uri;1975;PLR;76.02
 Uri;1975;PDC;18.61
@@ -1533,7 +1533,7 @@ Uri;1975;UDF;
 Uri;1975;PSL;
 Uri;1975;Lega;
 Uri;1975;MCR;
-Uri;1975;Sép.;
+Uri;1975;Sep.;
 Uri;1975;Autres;5.36
 Uri;1971;PLR;95.16
 Uri;1971;PDC;
@@ -1557,7 +1557,7 @@ Uri;1971;UDF;
 Uri;1971;PSL;
 Uri;1971;Lega;
 Uri;1971;MCR;
-Uri;1971;Sép.;
+Uri;1971;Sep.;
 Uri;1971;Autres;4.84
 Schwyz;2019;PLR;23.1
 Schwyz;2019;PDC;18.4
@@ -1581,7 +1581,7 @@ Schwyz;2019;UDF;
 Schwyz;2019;PSL;
 Schwyz;2019;Lega;
 Schwyz;2019;MCR;
-Schwyz;2019;Sép.;
+Schwyz;2019;Sep.;
 Schwyz;2019;Autres;
 Schwyz;2015;PLR;20.6
 Schwyz;2015;PDC;19.45
@@ -1605,7 +1605,7 @@ Schwyz;2015;UDF;
 Schwyz;2015;PSL;
 Schwyz;2015;Lega;
 Schwyz;2015;MCR;
-Schwyz;2015;Sép.;
+Schwyz;2015;Sep.;
 Schwyz;2015;Autres;
 Schwyz;2011;PLR;15.48
 Schwyz;2011;PDC;20.55
@@ -1629,7 +1629,7 @@ Schwyz;2011;UDF;
 Schwyz;2011;PSL;
 Schwyz;2011;Lega;
 Schwyz;2011;MCR;
-Schwyz;2011;Sép.;
+Schwyz;2011;Sep.;
 Schwyz;2011;Autres;1.94
 Schwyz;2007;PLR;16.73
 Schwyz;2007;PDC;20.1
@@ -1653,7 +1653,7 @@ Schwyz;2007;UDF;
 Schwyz;2007;PSL;
 Schwyz;2007;Lega;
 Schwyz;2007;MCR;
-Schwyz;2007;Sép.;
+Schwyz;2007;Sep.;
 Schwyz;2007;Autres;
 Schwyz;2003;PLR;15.35
 Schwyz;2003;PDC;23.44
@@ -1677,7 +1677,7 @@ Schwyz;2003;UDF;
 Schwyz;2003;PSL;
 Schwyz;2003;Lega;
 Schwyz;2003;MCR;
-Schwyz;2003;Sép.;
+Schwyz;2003;Sep.;
 Schwyz;2003;Autres;
 Schwyz;1999;PLR;19.11
 Schwyz;1999;PDC;27.25
@@ -1701,7 +1701,7 @@ Schwyz;1999;UDF;
 Schwyz;1999;PSL;
 Schwyz;1999;Lega;
 Schwyz;1999;MCR;
-Schwyz;1999;Sép.;
+Schwyz;1999;Sep.;
 Schwyz;1999;Autres;1.4
 Schwyz;1995;PLR;24
 Schwyz;1995;PDC;27.35
@@ -1725,7 +1725,7 @@ Schwyz;1995;UDF;
 Schwyz;1995;PSL;2.83
 Schwyz;1995;Lega;
 Schwyz;1995;MCR;
-Schwyz;1995;Sép.;
+Schwyz;1995;Sep.;
 Schwyz;1995;Autres;1.34
 Schwyz;1991;PLR;25.9
 Schwyz;1991;PDC;32.81
@@ -1749,7 +1749,7 @@ Schwyz;1991;UDF;
 Schwyz;1991;PSL;
 Schwyz;1991;Lega;
 Schwyz;1991;MCR;
-Schwyz;1991;Sép.;
+Schwyz;1991;Sep.;
 Schwyz;1991;Autres;12.75
 Schwyz;1987;PLR;24.26
 Schwyz;1987;PDC;36.93
@@ -1773,7 +1773,7 @@ Schwyz;1987;UDF;
 Schwyz;1987;PSL;4.91
 Schwyz;1987;Lega;
 Schwyz;1987;MCR;
-Schwyz;1987;Sép.;
+Schwyz;1987;Sep.;
 Schwyz;1987;Autres;12.03
 Schwyz;1983;PLR;25.96
 Schwyz;1983;PDC;46.56
@@ -1797,7 +1797,7 @@ Schwyz;1983;UDF;
 Schwyz;1983;PSL;
 Schwyz;1983;Lega;
 Schwyz;1983;MCR;
-Schwyz;1983;Sép.;
+Schwyz;1983;Sep.;
 Schwyz;1983;Autres;
 Schwyz;1979;PLR;28.03
 Schwyz;1979;PDC;49.37
@@ -1821,7 +1821,7 @@ Schwyz;1979;UDF;
 Schwyz;1979;PSL;
 Schwyz;1979;Lega;
 Schwyz;1979;MCR;
-Schwyz;1979;Sép.;
+Schwyz;1979;Sep.;
 Schwyz;1979;Autres;
 Schwyz;1975;PLR;21.27
 Schwyz;1975;PDC;46.37
@@ -1845,7 +1845,7 @@ Schwyz;1975;UDF;
 Schwyz;1975;PSL;
 Schwyz;1975;Lega;
 Schwyz;1975;MCR;
-Schwyz;1975;Sép.;
+Schwyz;1975;Sep.;
 Schwyz;1975;Autres;
 Schwyz;1971;PLR;20.4
 Schwyz;1971;PDC;38.48
@@ -1869,7 +1869,7 @@ Schwyz;1971;UDF;
 Schwyz;1971;PSL;
 Schwyz;1971;Lega;
 Schwyz;1971;MCR;
-Schwyz;1971;Sép.;
+Schwyz;1971;Sep.;
 Schwyz;1971;Autres;12.12
 Obwalden;2019;PLR;11.59
 Obwalden;2019;PDC;36.68
@@ -1893,7 +1893,7 @@ Obwalden;2019;UDF;
 Obwalden;2019;PSL;
 Obwalden;2019;Lega;
 Obwalden;2019;MCR;
-Obwalden;2019;Sép.;
+Obwalden;2019;Sep.;
 Obwalden;2019;Autres;11.54
 Obwalden;2015;PLR;
 Obwalden;2015;PDC;
@@ -1917,7 +1917,7 @@ Obwalden;2015;UDF;
 Obwalden;2015;PSL;
 Obwalden;2015;Lega;
 Obwalden;2015;MCR;
-Obwalden;2015;Sép.;
+Obwalden;2015;Sep.;
 Obwalden;2015;Autres;65.47
 Obwalden;2011;PLR;
 Obwalden;2011;PDC;
@@ -1941,7 +1941,7 @@ Obwalden;2011;UDF;
 Obwalden;2011;PSL;
 Obwalden;2011;Lega;
 Obwalden;2011;MCR;
-Obwalden;2011;Sép.;
+Obwalden;2011;Sep.;
 Obwalden;2011;Autres;56.9
 Obwalden;2007;PLR;
 Obwalden;2007;PDC;32.5
@@ -1965,7 +1965,7 @@ Obwalden;2007;UDF;
 Obwalden;2007;PSL;
 Obwalden;2007;Lega;
 Obwalden;2007;MCR;
-Obwalden;2007;Sép.;
+Obwalden;2007;Sep.;
 Obwalden;2007;Autres;22.98
 Obwalden;2003;PLR;
 Obwalden;2003;PDC;66.4
@@ -1989,7 +1989,7 @@ Obwalden;2003;UDF;
 Obwalden;2003;PSL;
 Obwalden;2003;Lega;
 Obwalden;2003;MCR;
-Obwalden;2003;Sép.;
+Obwalden;2003;Sep.;
 Obwalden;2003;Autres;0.02
 Obwalden;1999;PLR;
 Obwalden;1999;PDC;
@@ -2013,7 +2013,7 @@ Obwalden;1999;UDF;
 Obwalden;1999;PSL;
 Obwalden;1999;Lega;
 Obwalden;1999;MCR;
-Obwalden;1999;Sép.;
+Obwalden;1999;Sep.;
 Obwalden;1999;Autres;
 Obwalden;1995;PLR;
 Obwalden;1995;PDC;94.15
@@ -2037,7 +2037,7 @@ Obwalden;1995;UDF;
 Obwalden;1995;PSL;3.76
 Obwalden;1995;Lega;
 Obwalden;1995;MCR;
-Obwalden;1995;Sép.;
+Obwalden;1995;Sep.;
 Obwalden;1995;Autres;2.09
 Obwalden;1991;PLR;
 Obwalden;1991;PDC;95.29
@@ -2061,7 +2061,7 @@ Obwalden;1991;UDF;
 Obwalden;1991;PSL;
 Obwalden;1991;Lega;
 Obwalden;1991;MCR;
-Obwalden;1991;Sép.;
+Obwalden;1991;Sep.;
 Obwalden;1991;Autres;4.71
 Obwalden;1987;PLR;30.42
 Obwalden;1987;PDC;51.75
@@ -2085,7 +2085,7 @@ Obwalden;1987;UDF;
 Obwalden;1987;PSL;
 Obwalden;1987;Lega;
 Obwalden;1987;MCR;
-Obwalden;1987;Sép.;
+Obwalden;1987;Sep.;
 Obwalden;1987;Autres;17.83
 Obwalden;1983;PLR;
 Obwalden;1983;PDC;91.02
@@ -2109,7 +2109,7 @@ Obwalden;1983;UDF;
 Obwalden;1983;PSL;
 Obwalden;1983;Lega;
 Obwalden;1983;MCR;
-Obwalden;1983;Sép.;
+Obwalden;1983;Sep.;
 Obwalden;1983;Autres;8.98
 Obwalden;1979;PLR;
 Obwalden;1979;PDC;95.72
@@ -2133,7 +2133,7 @@ Obwalden;1979;UDF;
 Obwalden;1979;PSL;
 Obwalden;1979;Lega;
 Obwalden;1979;MCR;
-Obwalden;1979;Sép.;
+Obwalden;1979;Sep.;
 Obwalden;1979;Autres;4.28
 Obwalden;1975;PLR;
 Obwalden;1975;PDC;97.05
@@ -2157,7 +2157,7 @@ Obwalden;1975;UDF;
 Obwalden;1975;PSL;
 Obwalden;1975;Lega;
 Obwalden;1975;MCR;
-Obwalden;1975;Sép.;
+Obwalden;1975;Sep.;
 Obwalden;1975;Autres;2.95
 Obwalden;1971;PLR;32.46
 Obwalden;1971;PDC;67.04
@@ -2181,7 +2181,7 @@ Obwalden;1971;UDF;
 Obwalden;1971;PSL;
 Obwalden;1971;Lega;
 Obwalden;1971;MCR;
-Obwalden;1971;Sép.;
+Obwalden;1971;Sep.;
 Obwalden;1971;Autres;0.5
 Nidwalden;2019;PLR;
 Nidwalden;2019;PDC;35.8
@@ -2205,7 +2205,7 @@ Nidwalden;2019;UDF;
 Nidwalden;2019;PSL;
 Nidwalden;2019;Lega;
 Nidwalden;2019;MCR;
-Nidwalden;2019;Sép.;
+Nidwalden;2019;Sep.;
 Nidwalden;2019;Autres;
 Nidwalden;2015;PLR;
 Nidwalden;2015;PDC;
@@ -2229,7 +2229,7 @@ Nidwalden;2015;UDF;
 Nidwalden;2015;PSL;
 Nidwalden;2015;Lega;
 Nidwalden;2015;MCR;
-Nidwalden;2015;Sép.;
+Nidwalden;2015;Sep.;
 Nidwalden;2015;Autres;17.18
 Nidwalden;2011;PLR;35.2
 Nidwalden;2011;PDC;
@@ -2253,7 +2253,7 @@ Nidwalden;2011;UDF;
 Nidwalden;2011;PSL;
 Nidwalden;2011;Lega;
 Nidwalden;2011;MCR;
-Nidwalden;2011;Sép.;
+Nidwalden;2011;Sep.;
 Nidwalden;2011;Autres;
 Nidwalden;2007;PLR;
 Nidwalden;2007;PDC;
@@ -2277,7 +2277,7 @@ Nidwalden;2007;UDF;
 Nidwalden;2007;PSL;
 Nidwalden;2007;Lega;
 Nidwalden;2007;MCR;
-Nidwalden;2007;Sép.;
+Nidwalden;2007;Sep.;
 Nidwalden;2007;Autres;
 Nidwalden;2003;PLR;88.52
 Nidwalden;2003;PDC;
@@ -2301,7 +2301,7 @@ Nidwalden;2003;UDF;
 Nidwalden;2003;PSL;
 Nidwalden;2003;Lega;
 Nidwalden;2003;MCR;
-Nidwalden;2003;Sép.;
+Nidwalden;2003;Sep.;
 Nidwalden;2003;Autres;1.25
 Nidwalden;1999;PLR;90.43
 Nidwalden;1999;PDC;
@@ -2325,7 +2325,7 @@ Nidwalden;1999;UDF;
 Nidwalden;1999;PSL;
 Nidwalden;1999;Lega;
 Nidwalden;1999;MCR;
-Nidwalden;1999;Sép.;
+Nidwalden;1999;Sep.;
 Nidwalden;1999;Autres;1.55
 Nidwalden;1995;PLR;48.11
 Nidwalden;1995;PDC;32.1
@@ -2349,7 +2349,7 @@ Nidwalden;1995;UDF;
 Nidwalden;1995;PSL;
 Nidwalden;1995;Lega;
 Nidwalden;1995;MCR;
-Nidwalden;1995;Sép.;
+Nidwalden;1995;Sep.;
 Nidwalden;1995;Autres;19.79
 Nidwalden;1991;PLR;
 Nidwalden;1991;PDC;97.69
@@ -2373,7 +2373,7 @@ Nidwalden;1991;UDF;
 Nidwalden;1991;PSL;
 Nidwalden;1991;Lega;
 Nidwalden;1991;MCR;
-Nidwalden;1991;Sép.;
+Nidwalden;1991;Sep.;
 Nidwalden;1991;Autres;2.31
 Nidwalden;1987;PLR;
 Nidwalden;1987;PDC;96.87
@@ -2397,7 +2397,7 @@ Nidwalden;1987;UDF;
 Nidwalden;1987;PSL;
 Nidwalden;1987;Lega;
 Nidwalden;1987;MCR;
-Nidwalden;1987;Sép.;
+Nidwalden;1987;Sep.;
 Nidwalden;1987;Autres;3.13
 Nidwalden;1983;PLR;
 Nidwalden;1983;PDC;97.15
@@ -2421,7 +2421,7 @@ Nidwalden;1983;UDF;
 Nidwalden;1983;PSL;
 Nidwalden;1983;Lega;
 Nidwalden;1983;MCR;
-Nidwalden;1983;Sép.;
+Nidwalden;1983;Sep.;
 Nidwalden;1983;Autres;2.85
 Nidwalden;1979;PLR;39.01
 Nidwalden;1979;PDC;49.53
@@ -2445,7 +2445,7 @@ Nidwalden;1979;UDF;
 Nidwalden;1979;PSL;
 Nidwalden;1979;Lega;
 Nidwalden;1979;MCR;
-Nidwalden;1979;Sép.;
+Nidwalden;1979;Sep.;
 Nidwalden;1979;Autres;0.89
 Nidwalden;1975;PLR;
 Nidwalden;1975;PDC;97.6
@@ -2469,7 +2469,7 @@ Nidwalden;1975;UDF;
 Nidwalden;1975;PSL;
 Nidwalden;1975;Lega;
 Nidwalden;1975;MCR;
-Nidwalden;1975;Sép.;
+Nidwalden;1975;Sep.;
 Nidwalden;1975;Autres;2.4
 Nidwalden;1971;PLR;
 Nidwalden;1971;PDC;97.23
@@ -2493,7 +2493,7 @@ Nidwalden;1971;UDF;
 Nidwalden;1971;PSL;
 Nidwalden;1971;Lega;
 Nidwalden;1971;MCR;
-Nidwalden;1971;Sép.;
+Nidwalden;1971;Sep.;
 Nidwalden;1971;Autres;2.77
 Glarus;2019;PLR;
 Glarus;2019;PDC;
@@ -2517,7 +2517,7 @@ Glarus;2019;UDF;
 Glarus;2019;PSL;
 Glarus;2019;Lega;
 Glarus;2019;MCR;
-Glarus;2019;Sép.;
+Glarus;2019;Sep.;
 Glarus;2019;Autres;6.03
 Glarus;2015;PLR;
 Glarus;2015;PDC;
@@ -2541,7 +2541,7 @@ Glarus;2015;UDF;
 Glarus;2015;PSL;
 Glarus;2015;Lega;
 Glarus;2015;MCR;
-Glarus;2015;Sép.;
+Glarus;2015;Sep.;
 Glarus;2015;Autres;3.53
 Glarus;2011;PLR;
 Glarus;2011;PDC;
@@ -2565,7 +2565,7 @@ Glarus;2011;UDF;
 Glarus;2011;PSL;
 Glarus;2011;Lega;
 Glarus;2011;MCR;
-Glarus;2011;Sép.;
+Glarus;2011;Sep.;
 Glarus;2011;Autres;13.73
 Glarus;2007;PLR;
 Glarus;2007;PDC;
@@ -2589,7 +2589,7 @@ Glarus;2007;UDF;
 Glarus;2007;PSL;
 Glarus;2007;Lega;
 Glarus;2007;MCR;
-Glarus;2007;Sép.;
+Glarus;2007;Sep.;
 Glarus;2007;Autres;9.36
 Glarus;2003;PLR;
 Glarus;2003;PDC;
@@ -2613,7 +2613,7 @@ Glarus;2003;UDF;
 Glarus;2003;PSL;
 Glarus;2003;Lega;
 Glarus;2003;MCR;
-Glarus;2003;Sép.;
+Glarus;2003;Sep.;
 Glarus;2003;Autres;32.88
 Glarus;1999;PLR;
 Glarus;1999;PDC;
@@ -2637,7 +2637,7 @@ Glarus;1999;UDF;
 Glarus;1999;PSL;
 Glarus;1999;Lega;
 Glarus;1999;MCR;
-Glarus;1999;Sép.;
+Glarus;1999;Sep.;
 Glarus;1999;Autres;14.33
 Glarus;1995;PLR;
 Glarus;1995;PDC;
@@ -2661,7 +2661,7 @@ Glarus;1995;UDF;
 Glarus;1995;PSL;
 Glarus;1995;Lega;
 Glarus;1995;MCR;
-Glarus;1995;Sép.;
+Glarus;1995;Sep.;
 Glarus;1995;Autres;16.1
 Glarus;1991;PLR;
 Glarus;1991;PDC;
@@ -2685,7 +2685,7 @@ Glarus;1991;UDF;
 Glarus;1991;PSL;
 Glarus;1991;Lega;
 Glarus;1991;MCR;
-Glarus;1991;Sép.;
+Glarus;1991;Sep.;
 Glarus;1991;Autres;3.52
 Glarus;1987;PLR;
 Glarus;1987;PDC;
@@ -2709,7 +2709,7 @@ Glarus;1987;UDF;
 Glarus;1987;PSL;
 Glarus;1987;Lega;
 Glarus;1987;MCR;
-Glarus;1987;Sép.;
+Glarus;1987;Sep.;
 Glarus;1987;Autres;14.38
 Glarus;1983;PLR;
 Glarus;1983;PDC;
@@ -2733,7 +2733,7 @@ Glarus;1983;UDF;
 Glarus;1983;PSL;
 Glarus;1983;Lega;
 Glarus;1983;MCR;
-Glarus;1983;Sép.;
+Glarus;1983;Sep.;
 Glarus;1983;Autres;7.69
 Glarus;1979;PLR;
 Glarus;1979;PDC;
@@ -2757,7 +2757,7 @@ Glarus;1979;UDF;
 Glarus;1979;PSL;
 Glarus;1979;Lega;
 Glarus;1979;MCR;
-Glarus;1979;Sép.;
+Glarus;1979;Sep.;
 Glarus;1979;Autres;18.2
 Glarus;1975;PLR;
 Glarus;1975;PDC;
@@ -2781,7 +2781,7 @@ Glarus;1975;UDF;
 Glarus;1975;PSL;
 Glarus;1975;Lega;
 Glarus;1975;MCR;
-Glarus;1975;Sép.;
+Glarus;1975;Sep.;
 Glarus;1975;Autres;35.28
 Glarus;1971;PLR;42.36
 Glarus;1971;PDC;
@@ -2805,7 +2805,7 @@ Glarus;1971;UDF;
 Glarus;1971;PSL;
 Glarus;1971;Lega;
 Glarus;1971;MCR;
-Glarus;1971;Sép.;
+Glarus;1971;Sep.;
 Glarus;1971;Autres;0.44
 Zug;2019;PLR;14.68
 Zug;2019;PDC;23.78
@@ -2829,7 +2829,7 @@ Zug;2019;UDF;
 Zug;2019;PSL;
 Zug;2019;Lega;
 Zug;2019;MCR;
-Zug;2019;Sép.;
+Zug;2019;Sep.;
 Zug;2019;Autres;
 Zug;2015;PLR;17.64
 Zug;2015;PDC;26.44
@@ -2853,7 +2853,7 @@ Zug;2015;UDF;
 Zug;2015;PSL;
 Zug;2015;Lega;
 Zug;2015;MCR;
-Zug;2015;Sép.;
+Zug;2015;Sep.;
 Zug;2015;Autres;0.97
 Zug;2011;PLR;19.23
 Zug;2011;PDC;24.29
@@ -2877,7 +2877,7 @@ Zug;2011;UDF;
 Zug;2011;PSL;
 Zug;2011;Lega;
 Zug;2011;MCR;
-Zug;2011;Sép.;
+Zug;2011;Sep.;
 Zug;2011;Autres;0.74
 Zug;2007;PLR;21.51
 Zug;2007;PDC;23.32
@@ -2901,7 +2901,7 @@ Zug;2007;UDF;
 Zug;2007;PSL;
 Zug;2007;Lega;
 Zug;2007;MCR;
-Zug;2007;Sép.;
+Zug;2007;Sep.;
 Zug;2007;Autres;
 Zug;2003;PLR;22.36
 Zug;2003;PDC;22.9
@@ -2925,7 +2925,7 @@ Zug;2003;UDF;
 Zug;2003;PSL;
 Zug;2003;Lega;
 Zug;2003;MCR;
-Zug;2003;Sép.;
+Zug;2003;Sep.;
 Zug;2003;Autres;
 Zug;1999;PLR;25.66
 Zug;1999;PDC;26.36
@@ -2949,7 +2949,7 @@ Zug;1999;UDF;
 Zug;1999;PSL;
 Zug;1999;Lega;
 Zug;1999;MCR;
-Zug;1999;Sép.;
+Zug;1999;Sep.;
 Zug;1999;Autres;3.27
 Zug;1995;PLR;22.53
 Zug;1995;PDC;27.11
@@ -2973,7 +2973,7 @@ Zug;1995;UDF;
 Zug;1995;PSL;
 Zug;1995;Lega;
 Zug;1995;MCR;
-Zug;1995;Sép.;
+Zug;1995;Sep.;
 Zug;1995;Autres;7.81
 Zug;1991;PLR;32.86
 Zug;1991;PDC;34.19
@@ -2997,7 +2997,7 @@ Zug;1991;UDF;
 Zug;1991;PSL;
 Zug;1991;Lega;
 Zug;1991;MCR;
-Zug;1991;Sép.;
+Zug;1991;Sep.;
 Zug;1991;Autres;6.74
 Zug;1987;PLR;34.08
 Zug;1987;PDC;34.25
@@ -3021,7 +3021,7 @@ Zug;1987;UDF;
 Zug;1987;PSL;
 Zug;1987;Lega;
 Zug;1987;MCR;
-Zug;1987;Sép.;
+Zug;1987;Sep.;
 Zug;1987;Autres;1.29
 Zug;1983;PLR;33.57
 Zug;1983;PDC;39.89
@@ -3045,7 +3045,7 @@ Zug;1983;UDF;
 Zug;1983;PSL;
 Zug;1983;Lega;
 Zug;1983;MCR;
-Zug;1983;Sép.;
+Zug;1983;Sep.;
 Zug;1983;Autres;3.79
 Zug;1979;PLR;32.78
 Zug;1979;PDC;34.1
@@ -3069,7 +3069,7 @@ Zug;1979;UDF;
 Zug;1979;PSL;
 Zug;1979;Lega;
 Zug;1979;MCR;
-Zug;1979;Sép.;
+Zug;1979;Sep.;
 Zug;1979;Autres;2.22
 Zug;1975;PLR;23.13
 Zug;1975;PDC;39.39
@@ -3093,7 +3093,7 @@ Zug;1975;UDF;
 Zug;1975;PSL;
 Zug;1975;Lega;
 Zug;1975;MCR;
-Zug;1975;Sép.;
+Zug;1975;Sep.;
 Zug;1975;Autres;1.83
 Zug;1971;PLR;
 Zug;1971;PDC;
@@ -3117,7 +3117,7 @@ Zug;1971;UDF;
 Zug;1971;PSL;
 Zug;1971;Lega;
 Zug;1971;MCR;
-Zug;1971;Sép.;
+Zug;1971;Sep.;
 Zug;1971;Autres;
 Fribourg / Freiburg;2019;PLR;15.42
 Fribourg / Freiburg;2019;PDC;17.8
@@ -3141,7 +3141,7 @@ Fribourg / Freiburg;2019;UDF;0.73
 Fribourg / Freiburg;2019;PSL;
 Fribourg / Freiburg;2019;Lega;
 Fribourg / Freiburg;2019;MCR;
-Fribourg / Freiburg;2019;Sép.;
+Fribourg / Freiburg;2019;Sep.;
 Fribourg / Freiburg;2019;Autres;2.15
 Fribourg / Freiburg;2015;PLR;14.18
 Fribourg / Freiburg;2015;PDC;22.67
@@ -3165,7 +3165,7 @@ Fribourg / Freiburg;2015;UDF;0.76
 Fribourg / Freiburg;2015;PSL;
 Fribourg / Freiburg;2015;Lega;
 Fribourg / Freiburg;2015;MCR;
-Fribourg / Freiburg;2015;Sép.;
+Fribourg / Freiburg;2015;Sep.;
 Fribourg / Freiburg;2015;Autres;
 Fribourg / Freiburg;2011;PLR;12.8
 Fribourg / Freiburg;2011;PDC;20.26
@@ -3189,7 +3189,7 @@ Fribourg / Freiburg;2011;UDF;0.71
 Fribourg / Freiburg;2011;PSL;
 Fribourg / Freiburg;2011;Lega;
 Fribourg / Freiburg;2011;MCR;
-Fribourg / Freiburg;2011;Sép.;
+Fribourg / Freiburg;2011;Sep.;
 Fribourg / Freiburg;2011;Autres;1.54
 Fribourg / Freiburg;2007;PLR;13.82
 Fribourg / Freiburg;2007;PDC;24.77
@@ -3213,7 +3213,7 @@ Fribourg / Freiburg;2007;UDF;0.88
 Fribourg / Freiburg;2007;PSL;
 Fribourg / Freiburg;2007;Lega;
 Fribourg / Freiburg;2007;MCR;
-Fribourg / Freiburg;2007;Sép.;
+Fribourg / Freiburg;2007;Sep.;
 Fribourg / Freiburg;2007;Autres;1.58
 Fribourg / Freiburg;2003;PLR;12.76
 Fribourg / Freiburg;2003;PDC;25.38
@@ -3237,7 +3237,7 @@ Fribourg / Freiburg;2003;UDF;0.72
 Fribourg / Freiburg;2003;PSL;
 Fribourg / Freiburg;2003;Lega;
 Fribourg / Freiburg;2003;MCR;
-Fribourg / Freiburg;2003;Sép.;
+Fribourg / Freiburg;2003;Sep.;
 Fribourg / Freiburg;2003;Autres;3.07
 Fribourg / Freiburg;1999;PLR;14.75
 Fribourg / Freiburg;1999;PDC;33.72
@@ -3261,7 +3261,7 @@ Fribourg / Freiburg;1999;UDF;
 Fribourg / Freiburg;1999;PSL;
 Fribourg / Freiburg;1999;Lega;
 Fribourg / Freiburg;1999;MCR;
-Fribourg / Freiburg;1999;Sép.;
+Fribourg / Freiburg;1999;Sep.;
 Fribourg / Freiburg;1999;Autres;8.58
 Fribourg / Freiburg;1995;PLR;15.91
 Fribourg / Freiburg;1995;PDC;35.95
@@ -3285,7 +3285,7 @@ Fribourg / Freiburg;1995;UDF;
 Fribourg / Freiburg;1995;PSL;
 Fribourg / Freiburg;1995;Lega;
 Fribourg / Freiburg;1995;MCR;
-Fribourg / Freiburg;1995;Sép.;
+Fribourg / Freiburg;1995;Sep.;
 Fribourg / Freiburg;1995;Autres;9.65
 Fribourg / Freiburg;1991;PLR;16.14
 Fribourg / Freiburg;1991;PDC;36.83
@@ -3309,7 +3309,7 @@ Fribourg / Freiburg;1991;UDF;
 Fribourg / Freiburg;1991;PSL;
 Fribourg / Freiburg;1991;Lega;
 Fribourg / Freiburg;1991;MCR;
-Fribourg / Freiburg;1991;Sép.;
+Fribourg / Freiburg;1991;Sep.;
 Fribourg / Freiburg;1991;Autres;9.57
 Fribourg / Freiburg;1987;PLR;16.67
 Fribourg / Freiburg;1987;PDC;37.68
@@ -3333,7 +3333,7 @@ Fribourg / Freiburg;1987;UDF;
 Fribourg / Freiburg;1987;PSL;
 Fribourg / Freiburg;1987;Lega;
 Fribourg / Freiburg;1987;MCR;
-Fribourg / Freiburg;1987;Sép.;
+Fribourg / Freiburg;1987;Sep.;
 Fribourg / Freiburg;1987;Autres;1.86
 Fribourg / Freiburg;1983;PLR;19.98
 Fribourg / Freiburg;1983;PDC;37.96
@@ -3357,7 +3357,7 @@ Fribourg / Freiburg;1983;UDF;
 Fribourg / Freiburg;1983;PSL;
 Fribourg / Freiburg;1983;Lega;
 Fribourg / Freiburg;1983;MCR;
-Fribourg / Freiburg;1983;Sép.;
+Fribourg / Freiburg;1983;Sep.;
 Fribourg / Freiburg;1983;Autres;1.74
 Fribourg / Freiburg;1979;PLR;22.97
 Fribourg / Freiburg;1979;PDC;39.88
@@ -3381,7 +3381,7 @@ Fribourg / Freiburg;1979;UDF;
 Fribourg / Freiburg;1979;PSL;
 Fribourg / Freiburg;1979;Lega;
 Fribourg / Freiburg;1979;MCR;
-Fribourg / Freiburg;1979;Sép.;
+Fribourg / Freiburg;1979;Sep.;
 Fribourg / Freiburg;1979;Autres;
 Fribourg / Freiburg;1975;PLR;22.11
 Fribourg / Freiburg;1975;PDC;46.9
@@ -3405,7 +3405,7 @@ Fribourg / Freiburg;1975;UDF;
 Fribourg / Freiburg;1975;PSL;
 Fribourg / Freiburg;1975;Lega;
 Fribourg / Freiburg;1975;MCR;
-Fribourg / Freiburg;1975;Sép.;
+Fribourg / Freiburg;1975;Sep.;
 Fribourg / Freiburg;1975;Autres;0.98
 Fribourg / Freiburg;1971;PLR;24.68
 Fribourg / Freiburg;1971;PDC;41.47
@@ -3429,7 +3429,7 @@ Fribourg / Freiburg;1971;UDF;
 Fribourg / Freiburg;1971;PSL;
 Fribourg / Freiburg;1971;Lega;
 Fribourg / Freiburg;1971;MCR;
-Fribourg / Freiburg;1971;Sép.;
+Fribourg / Freiburg;1971;Sep.;
 Fribourg / Freiburg;1971;Autres;
 Solothurn;2019;PLR;18.52
 Solothurn;2019;PDC;14.2
@@ -3453,7 +3453,7 @@ Solothurn;2019;UDF;
 Solothurn;2019;PSL;
 Solothurn;2019;Lega;
 Solothurn;2019;MCR;
-Solothurn;2019;Sép.;
+Solothurn;2019;Sep.;
 Solothurn;2019;Autres;0.92
 Solothurn;2015;PLR;21.22
 Solothurn;2015;PDC;14.8
@@ -3477,7 +3477,7 @@ Solothurn;2015;UDF;0.51
 Solothurn;2015;PSL;
 Solothurn;2015;Lega;
 Solothurn;2015;MCR;
-Solothurn;2015;Sép.;
+Solothurn;2015;Sep.;
 Solothurn;2015;Autres;0.98
 Solothurn;2011;PLR;18.41
 Solothurn;2011;PDC;17.86
@@ -3501,7 +3501,7 @@ Solothurn;2011;UDF;0.49
 Solothurn;2011;PSL;
 Solothurn;2011;Lega;
 Solothurn;2011;MCR;
-Solothurn;2011;Sép.;
+Solothurn;2011;Sep.;
 Solothurn;2011;Autres;2.32
 Solothurn;2007;PLR;20.95
 Solothurn;2007;PDC;20.36
@@ -3525,7 +3525,7 @@ Solothurn;2007;UDF;
 Solothurn;2007;PSL;
 Solothurn;2007;Lega;
 Solothurn;2007;MCR;
-Solothurn;2007;Sép.;
+Solothurn;2007;Sep.;
 Solothurn;2007;Autres;
 Solothurn;2003;PLR;23.97
 Solothurn;2003;PDC;21.01
@@ -3549,7 +3549,7 @@ Solothurn;2003;UDF;
 Solothurn;2003;PSL;
 Solothurn;2003;Lega;
 Solothurn;2003;MCR;
-Solothurn;2003;Sép.;
+Solothurn;2003;Sep.;
 Solothurn;2003;Autres;
 Solothurn;1999;PLR;25.37
 Solothurn;1999;PDC;21.41
@@ -3573,7 +3573,7 @@ Solothurn;1999;UDF;
 Solothurn;1999;PSL;1.3
 Solothurn;1999;Lega;
 Solothurn;1999;MCR;
-Solothurn;1999;Sép.;
+Solothurn;1999;Sep.;
 Solothurn;1999;Autres;1.26
 Solothurn;1995;PLR;25.45
 Solothurn;1995;PDC;21.51
@@ -3597,7 +3597,7 @@ Solothurn;1995;UDF;
 Solothurn;1995;PSL;10.57
 Solothurn;1995;Lega;
 Solothurn;1995;MCR;
-Solothurn;1995;Sép.;
+Solothurn;1995;Sep.;
 Solothurn;1995;Autres;1.28
 Solothurn;1991;PLR;32.77
 Solothurn;1991;PDC;22.19
@@ -3621,7 +3621,7 @@ Solothurn;1991;UDF;
 Solothurn;1991;PSL;9.1
 Solothurn;1991;Lega;
 Solothurn;1991;MCR;
-Solothurn;1991;Sép.;
+Solothurn;1991;Sep.;
 Solothurn;1991;Autres;4.74
 Solothurn;1987;PLR;36.32
 Solothurn;1987;PDC;25.1
@@ -3645,7 +3645,7 @@ Solothurn;1987;UDF;
 Solothurn;1987;PSL;4.93
 Solothurn;1987;Lega;
 Solothurn;1987;MCR;
-Solothurn;1987;Sép.;
+Solothurn;1987;Sep.;
 Solothurn;1987;Autres;7.51
 Solothurn;1983;PLR;37.21
 Solothurn;1983;PDC;26.71
@@ -3669,7 +3669,7 @@ Solothurn;1983;UDF;
 Solothurn;1983;PSL;
 Solothurn;1983;Lega;
 Solothurn;1983;MCR;
-Solothurn;1983;Sép.;
+Solothurn;1983;Sep.;
 Solothurn;1983;Autres;0.88
 Solothurn;1979;PLR;39
 Solothurn;1979;PDC;27.55
@@ -3693,7 +3693,7 @@ Solothurn;1979;UDF;
 Solothurn;1979;PSL;
 Solothurn;1979;Lega;
 Solothurn;1979;MCR;
-Solothurn;1979;Sép.;
+Solothurn;1979;Sep.;
 Solothurn;1979;Autres;
 Solothurn;1975;PLR;38.68
 Solothurn;1975;PDC;25.97
@@ -3717,7 +3717,7 @@ Solothurn;1975;UDF;
 Solothurn;1975;PSL;
 Solothurn;1975;Lega;
 Solothurn;1975;MCR;
-Solothurn;1975;Sép.;
+Solothurn;1975;Sep.;
 Solothurn;1975;Autres;0.59
 Solothurn;1971;PLR;34.3
 Solothurn;1971;PDC;27.68
@@ -3741,7 +3741,7 @@ Solothurn;1971;UDF;
 Solothurn;1971;PSL;
 Solothurn;1971;Lega;
 Solothurn;1971;MCR;
-Solothurn;1971;Sép.;
+Solothurn;1971;Sep.;
 Solothurn;1971;Autres;
 Basel-Stadt;2019;PLR;6.04
 Basel-Stadt;2019;PDC;4.57
@@ -3765,7 +3765,7 @@ Basel-Stadt;2019;UDF;0.28
 Basel-Stadt;2019;PSL;
 Basel-Stadt;2019;Lega;
 Basel-Stadt;2019;MCR;
-Basel-Stadt;2019;Sép.;
+Basel-Stadt;2019;Sep.;
 Basel-Stadt;2019;Autres;2.99
 Basel-Stadt;2015;PLR;9.82
 Basel-Stadt;2015;PDC;6.45
@@ -3789,7 +3789,7 @@ Basel-Stadt;2015;UDF;0.46
 Basel-Stadt;2015;PSL;
 Basel-Stadt;2015;Lega;
 Basel-Stadt;2015;MCR;
-Basel-Stadt;2015;Sép.;
+Basel-Stadt;2015;Sep.;
 Basel-Stadt;2015;Autres;1.37
 Basel-Stadt;2011;PLR;12.31
 Basel-Stadt;2011;PDC;6.53
@@ -3813,7 +3813,7 @@ Basel-Stadt;2011;UDF;0.51
 Basel-Stadt;2011;PSL;
 Basel-Stadt;2011;Lega;
 Basel-Stadt;2011;MCR;
-Basel-Stadt;2011;Sép.;
+Basel-Stadt;2011;Sep.;
 Basel-Stadt;2011;Autres;4.19
 Basel-Stadt;2007;PLR;11.34
 Basel-Stadt;2007;PDC;7.37
@@ -3837,7 +3837,7 @@ Basel-Stadt;2007;UDF;0.5
 Basel-Stadt;2007;PSL;
 Basel-Stadt;2007;Lega;
 Basel-Stadt;2007;MCR;
-Basel-Stadt;2007;Sép.;
+Basel-Stadt;2007;Sep.;
 Basel-Stadt;2007;Autres;1.65
 Basel-Stadt;2003;PLR;9.91
 Basel-Stadt;2003;PDC;6.59
@@ -3861,7 +3861,7 @@ Basel-Stadt;2003;UDF;0.74
 Basel-Stadt;2003;PSL;
 Basel-Stadt;2003;Lega;
 Basel-Stadt;2003;MCR;
-Basel-Stadt;2003;Sép.;
+Basel-Stadt;2003;Sep.;
 Basel-Stadt;2003;Autres;1.57
 Basel-Stadt;1999;PLR;12.14
 Basel-Stadt;1999;PDC;8.59
@@ -3885,7 +3885,7 @@ Basel-Stadt;1999;UDF;
 Basel-Stadt;1999;PSL;
 Basel-Stadt;1999;Lega;
 Basel-Stadt;1999;MCR;
-Basel-Stadt;1999;Sép.;
+Basel-Stadt;1999;Sep.;
 Basel-Stadt;1999;Autres;5.46
 Basel-Stadt;1995;PLR;12.16
 Basel-Stadt;1995;PDC;9.7
@@ -3909,7 +3909,7 @@ Basel-Stadt;1995;UDF;
 Basel-Stadt;1995;PSL;2.49
 Basel-Stadt;1995;Lega;
 Basel-Stadt;1995;MCR;
-Basel-Stadt;1995;Sép.;
+Basel-Stadt;1995;Sep.;
 Basel-Stadt;1995;Autres;0.67
 Basel-Stadt;1991;PLR;15.81
 Basel-Stadt;1991;PDC;10.37
@@ -3933,7 +3933,7 @@ Basel-Stadt;1991;UDF;0.92
 Basel-Stadt;1991;PSL;
 Basel-Stadt;1991;Lega;
 Basel-Stadt;1991;MCR;
-Basel-Stadt;1991;Sép.;
+Basel-Stadt;1991;Sep.;
 Basel-Stadt;1991;Autres;4.83
 Basel-Stadt;1987;PLR;11.16
 Basel-Stadt;1987;PDC;9.98
@@ -3957,7 +3957,7 @@ Basel-Stadt;1987;UDF;
 Basel-Stadt;1987;PSL;
 Basel-Stadt;1987;Lega;
 Basel-Stadt;1987;MCR;
-Basel-Stadt;1987;Sép.;
+Basel-Stadt;1987;Sep.;
 Basel-Stadt;1987;Autres;6.53
 Basel-Stadt;1983;PLR;13.52
 Basel-Stadt;1983;PDC;9.9
@@ -3981,7 +3981,7 @@ Basel-Stadt;1983;UDF;
 Basel-Stadt;1983;PSL;
 Basel-Stadt;1983;Lega;
 Basel-Stadt;1983;MCR;
-Basel-Stadt;1983;Sép.;
+Basel-Stadt;1983;Sep.;
 Basel-Stadt;1983;Autres;4.99
 Basel-Stadt;1979;PLR;14.11
 Basel-Stadt;1979;PDC;13.94
@@ -4005,7 +4005,7 @@ Basel-Stadt;1979;UDF;
 Basel-Stadt;1979;PSL;
 Basel-Stadt;1979;Lega;
 Basel-Stadt;1979;MCR;
-Basel-Stadt;1979;Sép.;
+Basel-Stadt;1979;Sep.;
 Basel-Stadt;1979;Autres;0.91
 Basel-Stadt;1975;PLR;11.37
 Basel-Stadt;1975;PDC;12.08
@@ -4029,7 +4029,7 @@ Basel-Stadt;1975;UDF;
 Basel-Stadt;1975;PSL;
 Basel-Stadt;1975;Lega;
 Basel-Stadt;1975;MCR;
-Basel-Stadt;1975;Sép.;
+Basel-Stadt;1975;Sep.;
 Basel-Stadt;1975;Autres;0.75
 Basel-Stadt;1971;PLR;11.47
 Basel-Stadt;1971;PDC;11.24
@@ -4053,7 +4053,7 @@ Basel-Stadt;1971;UDF;
 Basel-Stadt;1971;PSL;
 Basel-Stadt;1971;Lega;
 Basel-Stadt;1971;MCR;
-Basel-Stadt;1971;Sép.;
+Basel-Stadt;1971;Sep.;
 Basel-Stadt;1971;Autres;0.42
 Basel-Landschaft;2019;PLR;16.52
 Basel-Landschaft;2019;PDC;8.49
@@ -4077,7 +4077,7 @@ Basel-Landschaft;2019;UDF;
 Basel-Landschaft;2019;PSL;
 Basel-Landschaft;2019;Lega;
 Basel-Landschaft;2019;MCR;
-Basel-Landschaft;2019;Sép.;
+Basel-Landschaft;2019;Sep.;
 Basel-Landschaft;2019;Autres;0.12
 Basel-Landschaft;2015;PLR;15.8
 Basel-Landschaft;2015;PDC;9.09
@@ -4101,7 +4101,7 @@ Basel-Landschaft;2015;UDF;0.45
 Basel-Landschaft;2015;PSL;
 Basel-Landschaft;2015;Lega;
 Basel-Landschaft;2015;MCR;
-Basel-Landschaft;2015;Sép.;
+Basel-Landschaft;2015;Sep.;
 Basel-Landschaft;2015;Autres;0.76
 Basel-Landschaft;2011;PLR;11.45
 Basel-Landschaft;2011;PDC;8.24
@@ -4125,7 +4125,7 @@ Basel-Landschaft;2011;UDF;
 Basel-Landschaft;2011;PSL;
 Basel-Landschaft;2011;Lega;
 Basel-Landschaft;2011;MCR;
-Basel-Landschaft;2011;Sép.;
+Basel-Landschaft;2011;Sep.;
 Basel-Landschaft;2011;Autres;
 Basel-Landschaft;2007;PLR;17.02
 Basel-Landschaft;2007;PDC;11.4
@@ -4149,7 +4149,7 @@ Basel-Landschaft;2007;UDF;0.47
 Basel-Landschaft;2007;PSL;
 Basel-Landschaft;2007;Lega;
 Basel-Landschaft;2007;MCR;
-Basel-Landschaft;2007;Sép.;
+Basel-Landschaft;2007;Sep.;
 Basel-Landschaft;2007;Autres;
 Basel-Landschaft;2003;PLR;19.89
 Basel-Landschaft;2003;PDC;10.03
@@ -4173,7 +4173,7 @@ Basel-Landschaft;2003;UDF;
 Basel-Landschaft;2003;PSL;0.2
 Basel-Landschaft;2003;Lega;
 Basel-Landschaft;2003;MCR;
-Basel-Landschaft;2003;Sép.;
+Basel-Landschaft;2003;Sep.;
 Basel-Landschaft;2003;Autres;0.79
 Basel-Landschaft;1999;PLR;22.06
 Basel-Landschaft;1999;PDC;11.97
@@ -4197,7 +4197,7 @@ Basel-Landschaft;1999;UDF;
 Basel-Landschaft;1999;PSL;0.31
 Basel-Landschaft;1999;Lega;
 Basel-Landschaft;1999;MCR;
-Basel-Landschaft;1999;Sép.;
+Basel-Landschaft;1999;Sep.;
 Basel-Landschaft;1999;Autres;2.54
 Basel-Landschaft;1995;PLR;19.63
 Basel-Landschaft;1995;PDC;11.73
@@ -4221,7 +4221,7 @@ Basel-Landschaft;1995;UDF;0.56
 Basel-Landschaft;1995;PSL;1.32
 Basel-Landschaft;1995;Lega;
 Basel-Landschaft;1995;MCR;
-Basel-Landschaft;1995;Sép.;
+Basel-Landschaft;1995;Sep.;
 Basel-Landschaft;1995;Autres;7.12
 Basel-Landschaft;1991;PLR;24.76
 Basel-Landschaft;1991;PDC;11.55
@@ -4245,7 +4245,7 @@ Basel-Landschaft;1991;UDF;
 Basel-Landschaft;1991;PSL;4.27
 Basel-Landschaft;1991;Lega;
 Basel-Landschaft;1991;MCR;
-Basel-Landschaft;1991;Sép.;
+Basel-Landschaft;1991;Sep.;
 Basel-Landschaft;1991;Autres;
 Basel-Landschaft;1987;PLR;21.97
 Basel-Landschaft;1987;PDC;12.27
@@ -4269,7 +4269,7 @@ Basel-Landschaft;1987;UDF;
 Basel-Landschaft;1987;PSL;2.58
 Basel-Landschaft;1987;Lega;
 Basel-Landschaft;1987;MCR;
-Basel-Landschaft;1987;Sép.;
+Basel-Landschaft;1987;Sep.;
 Basel-Landschaft;1987;Autres;
 Basel-Landschaft;1983;PLR;25.05
 Basel-Landschaft;1983;PDC;10.81
@@ -4293,7 +4293,7 @@ Basel-Landschaft;1983;UDF;
 Basel-Landschaft;1983;PSL;
 Basel-Landschaft;1983;Lega;
 Basel-Landschaft;1983;MCR;
-Basel-Landschaft;1983;Sép.;
+Basel-Landschaft;1983;Sep.;
 Basel-Landschaft;1983;Autres;
 Basel-Landschaft;1979;PLR;26.67
 Basel-Landschaft;1979;PDC;11.53
@@ -4317,7 +4317,7 @@ Basel-Landschaft;1979;UDF;
 Basel-Landschaft;1979;PSL;
 Basel-Landschaft;1979;Lega;
 Basel-Landschaft;1979;MCR;
-Basel-Landschaft;1979;Sép.;
+Basel-Landschaft;1979;Sep.;
 Basel-Landschaft;1979;Autres;
 Basel-Landschaft;1975;PLR;23.94
 Basel-Landschaft;1975;PDC;13.26
@@ -4341,7 +4341,7 @@ Basel-Landschaft;1975;UDF;
 Basel-Landschaft;1975;PSL;
 Basel-Landschaft;1975;Lega;
 Basel-Landschaft;1975;MCR;
-Basel-Landschaft;1975;Sép.;
+Basel-Landschaft;1975;Sep.;
 Basel-Landschaft;1975;Autres;
 Basel-Landschaft;1971;PLR;22.95
 Basel-Landschaft;1971;PDC;13.33
@@ -4365,7 +4365,7 @@ Basel-Landschaft;1971;UDF;
 Basel-Landschaft;1971;PSL;
 Basel-Landschaft;1971;Lega;
 Basel-Landschaft;1971;MCR;
-Basel-Landschaft;1971;Sép.;
+Basel-Landschaft;1971;Sep.;
 Basel-Landschaft;1971;Autres;
 Schaffhausen;2019;PLR;11.03
 Schaffhausen;2019;PDC;2.14
@@ -4389,7 +4389,7 @@ Schaffhausen;2019;UDF;3.37
 Schaffhausen;2019;PSL;
 Schaffhausen;2019;Lega;
 Schaffhausen;2019;MCR;
-Schaffhausen;2019;Sép.;
+Schaffhausen;2019;Sep.;
 Schaffhausen;2019;Autres;
 Schaffhausen;2015;PLR;12.9
 Schaffhausen;2015;PDC;
@@ -4413,7 +4413,7 @@ Schaffhausen;2015;UDF;5.13
 Schaffhausen;2015;PSL;
 Schaffhausen;2015;Lega;
 Schaffhausen;2015;MCR;
-Schaffhausen;2015;Sép.;
+Schaffhausen;2015;Sep.;
 Schaffhausen;2015;Autres;
 Schaffhausen;2011;PLR;12.3
 Schaffhausen;2011;PDC;5.23
@@ -4437,7 +4437,7 @@ Schaffhausen;2011;UDF;3.78
 Schaffhausen;2011;PSL;
 Schaffhausen;2011;Lega;
 Schaffhausen;2011;MCR;
-Schaffhausen;2011;Sép.;
+Schaffhausen;2011;Sep.;
 Schaffhausen;2011;Autres;
 Schaffhausen;2007;PLR;26.69
 Schaffhausen;2007;PDC;
@@ -4461,7 +4461,7 @@ Schaffhausen;2007;UDF;
 Schaffhausen;2007;PSL;
 Schaffhausen;2007;Lega;
 Schaffhausen;2007;MCR;
-Schaffhausen;2007;Sép.;
+Schaffhausen;2007;Sep.;
 Schaffhausen;2007;Autres;
 Schaffhausen;2003;PLR;29.14
 Schaffhausen;2003;PDC;2.65
@@ -4485,7 +4485,7 @@ Schaffhausen;2003;UDF;
 Schaffhausen;2003;PSL;
 Schaffhausen;2003;Lega;
 Schaffhausen;2003;MCR;
-Schaffhausen;2003;Sép.;
+Schaffhausen;2003;Sep.;
 Schaffhausen;2003;Autres;
 Schaffhausen;1999;PLR;40.41
 Schaffhausen;1999;PDC;
@@ -4509,7 +4509,7 @@ Schaffhausen;1999;UDF;
 Schaffhausen;1999;PSL;
 Schaffhausen;1999;Lega;
 Schaffhausen;1999;MCR;
-Schaffhausen;1999;Sép.;
+Schaffhausen;1999;Sep.;
 Schaffhausen;1999;Autres;
 Schaffhausen;1995;PLR;31.86
 Schaffhausen;1995;PDC;
@@ -4533,7 +4533,7 @@ Schaffhausen;1995;UDF;
 Schaffhausen;1995;PSL;8.58
 Schaffhausen;1995;Lega;
 Schaffhausen;1995;MCR;
-Schaffhausen;1995;Sép.;
+Schaffhausen;1995;Sep.;
 Schaffhausen;1995;Autres;1.37
 Schaffhausen;1991;PLR;28.56
 Schaffhausen;1991;PDC;
@@ -4557,7 +4557,7 @@ Schaffhausen;1991;UDF;2.75
 Schaffhausen;1991;PSL;11.43
 Schaffhausen;1991;Lega;
 Schaffhausen;1991;MCR;
-Schaffhausen;1991;Sép.;
+Schaffhausen;1991;Sep.;
 Schaffhausen;1991;Autres;
 Schaffhausen;1987;PLR;34.3
 Schaffhausen;1987;PDC;
@@ -4581,7 +4581,7 @@ Schaffhausen;1987;UDF;3
 Schaffhausen;1987;PSL;
 Schaffhausen;1987;Lega;
 Schaffhausen;1987;MCR;
-Schaffhausen;1987;Sép.;
+Schaffhausen;1987;Sep.;
 Schaffhausen;1987;Autres;
 Schaffhausen;1983;PLR;26.19
 Schaffhausen;1983;PDC;6.34
@@ -4605,7 +4605,7 @@ Schaffhausen;1983;UDF;
 Schaffhausen;1983;PSL;
 Schaffhausen;1983;Lega;
 Schaffhausen;1983;MCR;
-Schaffhausen;1983;Sép.;
+Schaffhausen;1983;Sep.;
 Schaffhausen;1983;Autres;1.21
 Schaffhausen;1979;PLR;32.26
 Schaffhausen;1979;PDC;
@@ -4629,7 +4629,7 @@ Schaffhausen;1979;UDF;
 Schaffhausen;1979;PSL;
 Schaffhausen;1979;Lega;
 Schaffhausen;1979;MCR;
-Schaffhausen;1979;Sép.;
+Schaffhausen;1979;Sep.;
 Schaffhausen;1979;Autres;0.92
 Schaffhausen;1975;PLR;40.08
 Schaffhausen;1975;PDC;
@@ -4653,7 +4653,7 @@ Schaffhausen;1975;UDF;
 Schaffhausen;1975;PSL;
 Schaffhausen;1975;Lega;
 Schaffhausen;1975;MCR;
-Schaffhausen;1975;Sép.;
+Schaffhausen;1975;Sep.;
 Schaffhausen;1975;Autres;
 Schaffhausen;1971;PLR;33.11
 Schaffhausen;1971;PDC;8.05
@@ -4677,7 +4677,7 @@ Schaffhausen;1971;UDF;
 Schaffhausen;1971;PSL;
 Schaffhausen;1971;Lega;
 Schaffhausen;1971;MCR;
-Schaffhausen;1971;Sép.;
+Schaffhausen;1971;Sep.;
 Schaffhausen;1971;Autres;
 Appenzell Ausserrhoden;2019;PLR;48.44
 Appenzell Ausserrhoden;2019;PDC;
@@ -4701,7 +4701,7 @@ Appenzell Ausserrhoden;2019;UDF;
 Appenzell Ausserrhoden;2019;PSL;
 Appenzell Ausserrhoden;2019;Lega;
 Appenzell Ausserrhoden;2019;MCR;
-Appenzell Ausserrhoden;2019;Sép.;
+Appenzell Ausserrhoden;2019;Sep.;
 Appenzell Ausserrhoden;2019;Autres;2.11
 Appenzell Ausserrhoden;2015;PLR;33.58
 Appenzell Ausserrhoden;2015;PDC;
@@ -4725,7 +4725,7 @@ Appenzell Ausserrhoden;2015;UDF;
 Appenzell Ausserrhoden;2015;PSL;
 Appenzell Ausserrhoden;2015;Lega;
 Appenzell Ausserrhoden;2015;MCR;
-Appenzell Ausserrhoden;2015;Sép.;
+Appenzell Ausserrhoden;2015;Sep.;
 Appenzell Ausserrhoden;2015;Autres;1.77
 Appenzell Ausserrhoden;2011;PLR;51.51
 Appenzell Ausserrhoden;2011;PDC;10.57
@@ -4749,7 +4749,7 @@ Appenzell Ausserrhoden;2011;UDF;
 Appenzell Ausserrhoden;2011;PSL;
 Appenzell Ausserrhoden;2011;Lega;
 Appenzell Ausserrhoden;2011;MCR;
-Appenzell Ausserrhoden;2011;Sép.;
+Appenzell Ausserrhoden;2011;Sep.;
 Appenzell Ausserrhoden;2011;Autres;1.02
 Appenzell Ausserrhoden;2007;PLR;71.98
 Appenzell Ausserrhoden;2007;PDC;
@@ -4773,7 +4773,7 @@ Appenzell Ausserrhoden;2007;UDF;
 Appenzell Ausserrhoden;2007;PSL;
 Appenzell Ausserrhoden;2007;Lega;
 Appenzell Ausserrhoden;2007;MCR;
-Appenzell Ausserrhoden;2007;Sép.;
+Appenzell Ausserrhoden;2007;Sep.;
 Appenzell Ausserrhoden;2007;Autres;28.02
 Appenzell Ausserrhoden;2003;PLR;41.06
 Appenzell Ausserrhoden;2003;PDC;
@@ -4797,7 +4797,7 @@ Appenzell Ausserrhoden;2003;UDF;
 Appenzell Ausserrhoden;2003;PSL;
 Appenzell Ausserrhoden;2003;Lega;
 Appenzell Ausserrhoden;2003;MCR;
-Appenzell Ausserrhoden;2003;Sép.;
+Appenzell Ausserrhoden;2003;Sep.;
 Appenzell Ausserrhoden;2003;Autres;0.75
 Appenzell Ausserrhoden;1999;PLR;32.81
 Appenzell Ausserrhoden;1999;PDC;
@@ -4821,7 +4821,7 @@ Appenzell Ausserrhoden;1999;UDF;
 Appenzell Ausserrhoden;1999;PSL;
 Appenzell Ausserrhoden;1999;Lega;
 Appenzell Ausserrhoden;1999;MCR;
-Appenzell Ausserrhoden;1999;Sép.;
+Appenzell Ausserrhoden;1999;Sep.;
 Appenzell Ausserrhoden;1999;Autres;
 Appenzell Ausserrhoden;1995;PLR;36.44
 Appenzell Ausserrhoden;1995;PDC;9.52
@@ -4845,7 +4845,7 @@ Appenzell Ausserrhoden;1995;UDF;
 Appenzell Ausserrhoden;1995;PSL;8.91
 Appenzell Ausserrhoden;1995;Lega;
 Appenzell Ausserrhoden;1995;MCR;
-Appenzell Ausserrhoden;1995;Sép.;
+Appenzell Ausserrhoden;1995;Sep.;
 Appenzell Ausserrhoden;1995;Autres;1.19
 Appenzell Ausserrhoden;1991;PLR;30.82
 Appenzell Ausserrhoden;1991;PDC;16.71
@@ -4869,7 +4869,7 @@ Appenzell Ausserrhoden;1991;UDF;
 Appenzell Ausserrhoden;1991;PSL;15.79
 Appenzell Ausserrhoden;1991;Lega;
 Appenzell Ausserrhoden;1991;MCR;
-Appenzell Ausserrhoden;1991;Sép.;
+Appenzell Ausserrhoden;1991;Sep.;
 Appenzell Ausserrhoden;1991;Autres;36.68
 Appenzell Ausserrhoden;1987;PLR;
 Appenzell Ausserrhoden;1987;PDC;
@@ -4893,7 +4893,7 @@ Appenzell Ausserrhoden;1987;UDF;
 Appenzell Ausserrhoden;1987;PSL;
 Appenzell Ausserrhoden;1987;Lega;
 Appenzell Ausserrhoden;1987;MCR;
-Appenzell Ausserrhoden;1987;Sép.;
+Appenzell Ausserrhoden;1987;Sep.;
 Appenzell Ausserrhoden;1987;Autres;
 Appenzell Ausserrhoden;1983;PLR;36.04
 Appenzell Ausserrhoden;1983;PDC;14.49
@@ -4917,7 +4917,7 @@ Appenzell Ausserrhoden;1983;UDF;
 Appenzell Ausserrhoden;1983;PSL;
 Appenzell Ausserrhoden;1983;Lega;
 Appenzell Ausserrhoden;1983;MCR;
-Appenzell Ausserrhoden;1983;Sép.;
+Appenzell Ausserrhoden;1983;Sep.;
 Appenzell Ausserrhoden;1983;Autres;25.86
 Appenzell Ausserrhoden;1979;PLR;
 Appenzell Ausserrhoden;1979;PDC;
@@ -4941,7 +4941,7 @@ Appenzell Ausserrhoden;1979;UDF;
 Appenzell Ausserrhoden;1979;PSL;
 Appenzell Ausserrhoden;1979;Lega;
 Appenzell Ausserrhoden;1979;MCR;
-Appenzell Ausserrhoden;1979;Sép.;
+Appenzell Ausserrhoden;1979;Sep.;
 Appenzell Ausserrhoden;1979;Autres;
 Appenzell Ausserrhoden;1975;PLR;45.81
 Appenzell Ausserrhoden;1975;PDC;14.08
@@ -4965,7 +4965,7 @@ Appenzell Ausserrhoden;1975;UDF;
 Appenzell Ausserrhoden;1975;PSL;
 Appenzell Ausserrhoden;1975;Lega;
 Appenzell Ausserrhoden;1975;MCR;
-Appenzell Ausserrhoden;1975;Sép.;
+Appenzell Ausserrhoden;1975;Sep.;
 Appenzell Ausserrhoden;1975;Autres;
 Appenzell Ausserrhoden;1971;PLR;62.58
 Appenzell Ausserrhoden;1971;PDC;
@@ -4989,7 +4989,7 @@ Appenzell Ausserrhoden;1971;UDF;
 Appenzell Ausserrhoden;1971;PSL;
 Appenzell Ausserrhoden;1971;Lega;
 Appenzell Ausserrhoden;1971;MCR;
-Appenzell Ausserrhoden;1971;Sép.;
+Appenzell Ausserrhoden;1971;Sep.;
 Appenzell Ausserrhoden;1971;Autres;
 Appenzell Innerrhoden;2019;PLR;
 Appenzell Innerrhoden;2019;PDC;61.27
@@ -5013,7 +5013,7 @@ Appenzell Innerrhoden;2019;UDF;
 Appenzell Innerrhoden;2019;PSL;
 Appenzell Innerrhoden;2019;Lega;
 Appenzell Innerrhoden;2019;MCR;
-Appenzell Innerrhoden;2019;Sép.;
+Appenzell Innerrhoden;2019;Sep.;
 Appenzell Innerrhoden;2019;Autres;0.92
 Appenzell Innerrhoden;2015;PLR;
 Appenzell Innerrhoden;2015;PDC;76.31
@@ -5037,7 +5037,7 @@ Appenzell Innerrhoden;2015;UDF;
 Appenzell Innerrhoden;2015;PSL;
 Appenzell Innerrhoden;2015;Lega;
 Appenzell Innerrhoden;2015;MCR;
-Appenzell Innerrhoden;2015;Sép.;
+Appenzell Innerrhoden;2015;Sep.;
 Appenzell Innerrhoden;2015;Autres;5.62
 Appenzell Innerrhoden;2011;PLR;
 Appenzell Innerrhoden;2011;PDC;76.1
@@ -5061,7 +5061,7 @@ Appenzell Innerrhoden;2011;UDF;
 Appenzell Innerrhoden;2011;PSL;
 Appenzell Innerrhoden;2011;Lega;
 Appenzell Innerrhoden;2011;MCR;
-Appenzell Innerrhoden;2011;Sép.;
+Appenzell Innerrhoden;2011;Sep.;
 Appenzell Innerrhoden;2011;Autres;3.58
 Appenzell Innerrhoden;2007;PLR;
 Appenzell Innerrhoden;2007;PDC;84.56
@@ -5085,7 +5085,7 @@ Appenzell Innerrhoden;2007;UDF;
 Appenzell Innerrhoden;2007;PSL;
 Appenzell Innerrhoden;2007;Lega;
 Appenzell Innerrhoden;2007;MCR;
-Appenzell Innerrhoden;2007;Sép.;
+Appenzell Innerrhoden;2007;Sep.;
 Appenzell Innerrhoden;2007;Autres;15.44
 Appenzell Innerrhoden;2003;PLR;
 Appenzell Innerrhoden;2003;PDC;69.16
@@ -5109,7 +5109,7 @@ Appenzell Innerrhoden;2003;UDF;
 Appenzell Innerrhoden;2003;PSL;
 Appenzell Innerrhoden;2003;Lega;
 Appenzell Innerrhoden;2003;MCR;
-Appenzell Innerrhoden;2003;Sép.;
+Appenzell Innerrhoden;2003;Sep.;
 Appenzell Innerrhoden;2003;Autres;30.84
 Appenzell Innerrhoden;1999;PLR;
 Appenzell Innerrhoden;1999;PDC;73.54
@@ -5133,7 +5133,7 @@ Appenzell Innerrhoden;1999;UDF;
 Appenzell Innerrhoden;1999;PSL;
 Appenzell Innerrhoden;1999;Lega;
 Appenzell Innerrhoden;1999;MCR;
-Appenzell Innerrhoden;1999;Sép.;
+Appenzell Innerrhoden;1999;Sep.;
 Appenzell Innerrhoden;1999;Autres;0.72
 Appenzell Innerrhoden;1995;PLR;
 Appenzell Innerrhoden;1995;PDC;85.41
@@ -5157,7 +5157,7 @@ Appenzell Innerrhoden;1995;UDF;
 Appenzell Innerrhoden;1995;PSL;
 Appenzell Innerrhoden;1995;Lega;
 Appenzell Innerrhoden;1995;MCR;
-Appenzell Innerrhoden;1995;Sép.;
+Appenzell Innerrhoden;1995;Sep.;
 Appenzell Innerrhoden;1995;Autres;14.59
 Appenzell Innerrhoden;1991;PLR;
 Appenzell Innerrhoden;1991;PDC;98.71
@@ -5181,7 +5181,7 @@ Appenzell Innerrhoden;1991;UDF;
 Appenzell Innerrhoden;1991;PSL;
 Appenzell Innerrhoden;1991;Lega;
 Appenzell Innerrhoden;1991;MCR;
-Appenzell Innerrhoden;1991;Sép.;
+Appenzell Innerrhoden;1991;Sep.;
 Appenzell Innerrhoden;1991;Autres;1.29
 Appenzell Innerrhoden;1987;PLR;
 Appenzell Innerrhoden;1987;PDC;91.77
@@ -5205,7 +5205,7 @@ Appenzell Innerrhoden;1987;UDF;
 Appenzell Innerrhoden;1987;PSL;
 Appenzell Innerrhoden;1987;Lega;
 Appenzell Innerrhoden;1987;MCR;
-Appenzell Innerrhoden;1987;Sép.;
+Appenzell Innerrhoden;1987;Sep.;
 Appenzell Innerrhoden;1987;Autres;8.23
 Appenzell Innerrhoden;1983;PLR;
 Appenzell Innerrhoden;1983;PDC;95.59
@@ -5229,7 +5229,7 @@ Appenzell Innerrhoden;1983;UDF;
 Appenzell Innerrhoden;1983;PSL;
 Appenzell Innerrhoden;1983;Lega;
 Appenzell Innerrhoden;1983;MCR;
-Appenzell Innerrhoden;1983;Sép.;
+Appenzell Innerrhoden;1983;Sep.;
 Appenzell Innerrhoden;1983;Autres;4.41
 Appenzell Innerrhoden;1979;PLR;
 Appenzell Innerrhoden;1979;PDC;97.17
@@ -5253,7 +5253,7 @@ Appenzell Innerrhoden;1979;UDF;
 Appenzell Innerrhoden;1979;PSL;
 Appenzell Innerrhoden;1979;Lega;
 Appenzell Innerrhoden;1979;MCR;
-Appenzell Innerrhoden;1979;Sép.;
+Appenzell Innerrhoden;1979;Sep.;
 Appenzell Innerrhoden;1979;Autres;2.83
 Appenzell Innerrhoden;1975;PLR;
 Appenzell Innerrhoden;1975;PDC;98.31
@@ -5277,7 +5277,7 @@ Appenzell Innerrhoden;1975;UDF;
 Appenzell Innerrhoden;1975;PSL;
 Appenzell Innerrhoden;1975;Lega;
 Appenzell Innerrhoden;1975;MCR;
-Appenzell Innerrhoden;1975;Sép.;
+Appenzell Innerrhoden;1975;Sep.;
 Appenzell Innerrhoden;1975;Autres;1.69
 Appenzell Innerrhoden;1971;PLR;
 Appenzell Innerrhoden;1971;PDC;96.14
@@ -5301,7 +5301,7 @@ Appenzell Innerrhoden;1971;UDF;
 Appenzell Innerrhoden;1971;PSL;
 Appenzell Innerrhoden;1971;Lega;
 Appenzell Innerrhoden;1971;MCR;
-Appenzell Innerrhoden;1971;Sép.;
+Appenzell Innerrhoden;1971;Sep.;
 Appenzell Innerrhoden;1971;Autres;3.86
 St. Gallen;2019;PLR;14.99
 St. Gallen;2019;PDC;18.78
@@ -5325,7 +5325,7 @@ St. Gallen;2019;UDF;0.93
 St. Gallen;2019;PSL;
 St. Gallen;2019;Lega;
 St. Gallen;2019;MCR;
-St. Gallen;2019;Sép.;
+St. Gallen;2019;Sep.;
 St. Gallen;2019;Autres;0.98
 St. Gallen;2015;PLR;14.29
 St. Gallen;2015;PDC;16.55
@@ -5349,7 +5349,7 @@ St. Gallen;2015;UDF;0.93
 St. Gallen;2015;PSL;
 St. Gallen;2015;Lega;
 St. Gallen;2015;MCR;
-St. Gallen;2015;Sép.;
+St. Gallen;2015;Sep.;
 St. Gallen;2015;Autres;1.95
 St. Gallen;2011;PLR;12.26
 St. Gallen;2011;PDC;20.32
@@ -5373,7 +5373,7 @@ St. Gallen;2011;UDF;1.22
 St. Gallen;2011;PSL;
 St. Gallen;2011;Lega;
 St. Gallen;2011;MCR;
-St. Gallen;2011;Sép.;
+St. Gallen;2011;Sep.;
 St. Gallen;2011;Autres;
 St. Gallen;2007;PLR;13.64
 St. Gallen;2007;PDC;21.44
@@ -5397,7 +5397,7 @@ St. Gallen;2007;UDF;0.99
 St. Gallen;2007;PSL;
 St. Gallen;2007;Lega;
 St. Gallen;2007;MCR;
-St. Gallen;2007;Sép.;
+St. Gallen;2007;Sep.;
 St. Gallen;2007;Autres;1.22
 St. Gallen;2003;PLR;14.66
 St. Gallen;2003;PDC;22.17
@@ -5421,7 +5421,7 @@ St. Gallen;2003;UDF;1.12
 St. Gallen;2003;PSL;
 St. Gallen;2003;Lega;
 St. Gallen;2003;MCR;
-St. Gallen;2003;Sép.;
+St. Gallen;2003;Sep.;
 St. Gallen;2003;Autres;1.26
 St. Gallen;1999;PLR;16.86
 St. Gallen;1999;PDC;26.15
@@ -5445,7 +5445,7 @@ St. Gallen;1999;UDF;1.01
 St. Gallen;1999;PSL;0.96
 St. Gallen;1999;Lega;
 St. Gallen;1999;MCR;
-St. Gallen;1999;Sép.;
+St. Gallen;1999;Sep.;
 St. Gallen;1999;Autres;1.77
 St. Gallen;1995;PLR;17.03
 St. Gallen;1995;PDC;30.98
@@ -5469,7 +5469,7 @@ St. Gallen;1995;UDF;1.04
 St. Gallen;1995;PSL;10.22
 St. Gallen;1995;Lega;
 St. Gallen;1995;MCR;
-St. Gallen;1995;Sép.;
+St. Gallen;1995;Sep.;
 St. Gallen;1995;Autres;3.38
 St. Gallen;1991;PLR;20.01
 St. Gallen;1991;PDC;35.81
@@ -5493,7 +5493,7 @@ St. Gallen;1991;UDF;
 St. Gallen;1991;PSL;12.56
 St. Gallen;1991;Lega;
 St. Gallen;1991;MCR;
-St. Gallen;1991;Sép.;
+St. Gallen;1991;Sep.;
 St. Gallen;1991;Autres;
 St. Gallen;1987;PLR;24.01
 St. Gallen;1987;PDC;39.45
@@ -5517,7 +5517,7 @@ St. Gallen;1987;UDF;
 St. Gallen;1987;PSL;5.1
 St. Gallen;1987;Lega;
 St. Gallen;1987;MCR;
-St. Gallen;1987;Sép.;
+St. Gallen;1987;Sep.;
 St. Gallen;1987;Autres;0.23
 St. Gallen;1983;PLR;27.5
 St. Gallen;1983;PDC;40.85
@@ -5541,7 +5541,7 @@ St. Gallen;1983;UDF;
 St. Gallen;1983;PSL;
 St. Gallen;1983;Lega;
 St. Gallen;1983;MCR;
-St. Gallen;1983;Sép.;
+St. Gallen;1983;Sep.;
 St. Gallen;1983;Autres;
 St. Gallen;1979;PLR;27.6
 St. Gallen;1979;PDC;44.08
@@ -5565,7 +5565,7 @@ St. Gallen;1979;UDF;
 St. Gallen;1979;PSL;
 St. Gallen;1979;Lega;
 St. Gallen;1979;MCR;
-St. Gallen;1979;Sép.;
+St. Gallen;1979;Sep.;
 St. Gallen;1979;Autres;
 St. Gallen;1975;PLR;25.1
 St. Gallen;1975;PDC;43.33
@@ -5589,7 +5589,7 @@ St. Gallen;1975;UDF;
 St. Gallen;1975;PSL;
 St. Gallen;1975;Lega;
 St. Gallen;1975;MCR;
-St. Gallen;1975;Sép.;
+St. Gallen;1975;Sep.;
 St. Gallen;1975;Autres;
 St. Gallen;1971;PLR;23.59
 St. Gallen;1971;PDC;44.03
@@ -5613,7 +5613,7 @@ St. Gallen;1971;UDF;
 St. Gallen;1971;PSL;
 St. Gallen;1971;Lega;
 St. Gallen;1971;MCR;
-St. Gallen;1971;Sép.;
+St. Gallen;1971;Sep.;
 St. Gallen;1971;Autres;0.34
 Graubünden / Grigioni / Grischun;2019;PLR;13.63
 Graubünden / Grigioni / Grischun;2019;PDC;16.35
@@ -5637,7 +5637,7 @@ Graubünden / Grigioni / Grischun;2019;UDF;
 Graubünden / Grigioni / Grischun;2019;PSL;
 Graubünden / Grigioni / Grischun;2019;Lega;
 Graubünden / Grigioni / Grischun;2019;MCR;
-Graubünden / Grigioni / Grischun;2019;Sép.;
+Graubünden / Grigioni / Grischun;2019;Sep.;
 Graubünden / Grigioni / Grischun;2019;Autres;
 Graubünden / Grigioni / Grischun;2015;PLR;13.26
 Graubünden / Grigioni / Grischun;2015;PDC;16.81
@@ -5661,7 +5661,7 @@ Graubünden / Grigioni / Grischun;2015;UDF;
 Graubünden / Grigioni / Grischun;2015;PSL;
 Graubünden / Grigioni / Grischun;2015;Lega;
 Graubünden / Grigioni / Grischun;2015;MCR;
-Graubünden / Grigioni / Grischun;2015;Sép.;
+Graubünden / Grigioni / Grischun;2015;Sep.;
 Graubünden / Grigioni / Grischun;2015;Autres;0.22
 Graubünden / Grigioni / Grischun;2011;PLR;11.9
 Graubünden / Grigioni / Grischun;2011;PDC;16.64
@@ -5685,7 +5685,7 @@ Graubünden / Grigioni / Grischun;2011;UDF;0.51
 Graubünden / Grigioni / Grischun;2011;PSL;
 Graubünden / Grigioni / Grischun;2011;Lega;
 Graubünden / Grigioni / Grischun;2011;MCR;
-Graubünden / Grigioni / Grischun;2011;Sép.;
+Graubünden / Grigioni / Grischun;2011;Sep.;
 Graubünden / Grigioni / Grischun;2011;Autres;
 Graubünden / Grigioni / Grischun;2007;PLR;19.14
 Graubünden / Grigioni / Grischun;2007;PDC;20.33
@@ -5709,7 +5709,7 @@ Graubünden / Grigioni / Grischun;2007;UDF;1.56
 Graubünden / Grigioni / Grischun;2007;PSL;
 Graubünden / Grigioni / Grischun;2007;Lega;
 Graubünden / Grigioni / Grischun;2007;MCR;
-Graubünden / Grigioni / Grischun;2007;Sép.;
+Graubünden / Grigioni / Grischun;2007;Sep.;
 Graubünden / Grigioni / Grischun;2007;Autres;0.58
 Graubünden / Grigioni / Grischun;2003;PLR;15.82
 Graubünden / Grigioni / Grischun;2003;PDC;23.53
@@ -5733,7 +5733,7 @@ Graubünden / Grigioni / Grischun;2003;UDF;1.87
 Graubünden / Grigioni / Grischun;2003;PSL;
 Graubünden / Grigioni / Grischun;2003;Lega;
 Graubünden / Grigioni / Grischun;2003;MCR;
-Graubünden / Grigioni / Grischun;2003;Sép.;
+Graubünden / Grigioni / Grischun;2003;Sep.;
 Graubünden / Grigioni / Grischun;2003;Autres;
 Graubünden / Grigioni / Grischun;1999;PLR;15.12
 Graubünden / Grigioni / Grischun;1999;PDC;25.49
@@ -5757,7 +5757,7 @@ Graubünden / Grigioni / Grischun;1999;UDF;
 Graubünden / Grigioni / Grischun;1999;PSL;
 Graubünden / Grigioni / Grischun;1999;Lega;
 Graubünden / Grigioni / Grischun;1999;MCR;
-Graubünden / Grigioni / Grischun;1999;Sép.;
+Graubünden / Grigioni / Grischun;1999;Sep.;
 Graubünden / Grigioni / Grischun;1999;Autres;5.76
 Graubünden / Grigioni / Grischun;1995;PLR;16.5
 Graubünden / Grigioni / Grischun;1995;PDC;26.85
@@ -5781,7 +5781,7 @@ Graubünden / Grigioni / Grischun;1995;UDF;
 Graubünden / Grigioni / Grischun;1995;PSL;
 Graubünden / Grigioni / Grischun;1995;Lega;
 Graubünden / Grigioni / Grischun;1995;MCR;
-Graubünden / Grigioni / Grischun;1995;Sép.;
+Graubünden / Grigioni / Grischun;1995;Sep.;
 Graubünden / Grigioni / Grischun;1995;Autres;1.69
 Graubünden / Grigioni / Grischun;1991;PLR;18.09
 Graubünden / Grigioni / Grischun;1991;PDC;25.49
@@ -5805,7 +5805,7 @@ Graubünden / Grigioni / Grischun;1991;UDF;
 Graubünden / Grigioni / Grischun;1991;PSL;
 Graubünden / Grigioni / Grischun;1991;Lega;
 Graubünden / Grigioni / Grischun;1991;MCR;
-Graubünden / Grigioni / Grischun;1991;Sép.;
+Graubünden / Grigioni / Grischun;1991;Sep.;
 Graubünden / Grigioni / Grischun;1991;Autres;4.44
 Graubünden / Grigioni / Grischun;1987;PLR;18.25
 Graubünden / Grigioni / Grischun;1987;PDC;28.46
@@ -5829,7 +5829,7 @@ Graubünden / Grigioni / Grischun;1987;UDF;
 Graubünden / Grigioni / Grischun;1987;PSL;
 Graubünden / Grigioni / Grischun;1987;Lega;
 Graubünden / Grigioni / Grischun;1987;MCR;
-Graubünden / Grigioni / Grischun;1987;Sép.;
+Graubünden / Grigioni / Grischun;1987;Sep.;
 Graubünden / Grigioni / Grischun;1987;Autres;7.7
 Graubünden / Grigioni / Grischun;1983;PLR;20.08
 Graubünden / Grigioni / Grischun;1983;PDC;33.28
@@ -5853,7 +5853,7 @@ Graubünden / Grigioni / Grischun;1983;UDF;
 Graubünden / Grigioni / Grischun;1983;PSL;
 Graubünden / Grigioni / Grischun;1983;Lega;
 Graubünden / Grigioni / Grischun;1983;MCR;
-Graubünden / Grigioni / Grischun;1983;Sép.;
+Graubünden / Grigioni / Grischun;1983;Sep.;
 Graubünden / Grigioni / Grischun;1983;Autres;
 Graubünden / Grigioni / Grischun;1979;PLR;22.9
 Graubünden / Grigioni / Grischun;1979;PDC;35.42
@@ -5877,7 +5877,7 @@ Graubünden / Grigioni / Grischun;1979;UDF;
 Graubünden / Grigioni / Grischun;1979;PSL;
 Graubünden / Grigioni / Grischun;1979;Lega;
 Graubünden / Grigioni / Grischun;1979;MCR;
-Graubünden / Grigioni / Grischun;1979;Sép.;
+Graubünden / Grigioni / Grischun;1979;Sep.;
 Graubünden / Grigioni / Grischun;1979;Autres;
 Graubünden / Grigioni / Grischun;1975;PLR;18.11
 Graubünden / Grigioni / Grischun;1975;PDC;35.9
@@ -5901,7 +5901,7 @@ Graubünden / Grigioni / Grischun;1975;UDF;
 Graubünden / Grigioni / Grischun;1975;PSL;
 Graubünden / Grigioni / Grischun;1975;Lega;
 Graubünden / Grigioni / Grischun;1975;MCR;
-Graubünden / Grigioni / Grischun;1975;Sép.;
+Graubünden / Grigioni / Grischun;1975;Sep.;
 Graubünden / Grigioni / Grischun;1975;Autres;0.29
 Graubünden / Grigioni / Grischun;1971;PLR;14.8
 Graubünden / Grigioni / Grischun;1971;PDC;37.26
@@ -5925,7 +5925,7 @@ Graubünden / Grigioni / Grischun;1971;UDF;
 Graubünden / Grigioni / Grischun;1971;PSL;
 Graubünden / Grigioni / Grischun;1971;Lega;
 Graubünden / Grigioni / Grischun;1971;MCR;
-Graubünden / Grigioni / Grischun;1971;Sép.;
+Graubünden / Grigioni / Grischun;1971;Sep.;
 Graubünden / Grigioni / Grischun;1971;Autres;
 Aargau;2019;PLR;13.55
 Aargau;2019;PDC;9.89
@@ -5949,7 +5949,7 @@ Aargau;2019;UDF;1
 Aargau;2019;PSL;
 Aargau;2019;Lega;
 Aargau;2019;MCR;
-Aargau;2019;Sép.;
+Aargau;2019;Sep.;
 Aargau;2019;Autres;2.56
 Aargau;2015;PLR;15.14
 Aargau;2015;PDC;8.59
@@ -5973,7 +5973,7 @@ Aargau;2015;UDF;1.13
 Aargau;2015;PSL;
 Aargau;2015;Lega;
 Aargau;2015;MCR;
-Aargau;2015;Sép.;
+Aargau;2015;Sep.;
 Aargau;2015;Autres;1.96
 Aargau;2011;PLR;11.48
 Aargau;2011;PDC;10.59
@@ -5997,7 +5997,7 @@ Aargau;2011;UDF;1.17
 Aargau;2011;PSL;
 Aargau;2011;Lega;
 Aargau;2011;MCR;
-Aargau;2011;Sép.;
+Aargau;2011;Sep.;
 Aargau;2011;Autres;1.25
 Aargau;2007;PLR;13.6
 Aargau;2007;PDC;13.51
@@ -6021,7 +6021,7 @@ Aargau;2007;UDF;1.16
 Aargau;2007;PSL;
 Aargau;2007;Lega;
 Aargau;2007;MCR;
-Aargau;2007;Sép.;
+Aargau;2007;Sep.;
 Aargau;2007;Autres;4.66
 Aargau;2003;PLR;15.33
 Aargau;2003;PDC;15.6
@@ -6045,7 +6045,7 @@ Aargau;2003;UDF;
 Aargau;2003;PSL;0.23
 Aargau;2003;Lega;
 Aargau;2003;MCR;
-Aargau;2003;Sép.;
+Aargau;2003;Sep.;
 Aargau;2003;Autres;0.42
 Aargau;1999;PLR;17.18
 Aargau;1999;PDC;16.33
@@ -6069,7 +6069,7 @@ Aargau;1999;UDF;1.4
 Aargau;1999;PSL;1.43
 Aargau;1999;Lega;
 Aargau;1999;MCR;
-Aargau;1999;Sép.;
+Aargau;1999;Sep.;
 Aargau;1999;Autres;0.14
 Aargau;1995;PLR;15.8
 Aargau;1995;PDC;14.17
@@ -6093,7 +6093,7 @@ Aargau;1995;UDF;1.33
 Aargau;1995;PSL;11.27
 Aargau;1995;Lega;
 Aargau;1995;MCR;
-Aargau;1995;Sép.;
+Aargau;1995;Sep.;
 Aargau;1995;Autres;1.06
 Aargau;1991;PLR;16.4
 Aargau;1991;PDC;14.46
@@ -6117,7 +6117,7 @@ Aargau;1991;UDF;1.38
 Aargau;1991;PSL;13.22
 Aargau;1991;Lega;
 Aargau;1991;MCR;
-Aargau;1991;Sép.;
+Aargau;1991;Sep.;
 Aargau;1991;Autres;0.41
 Aargau;1987;PLR;20.26
 Aargau;1987;PDC;18.89
@@ -6141,7 +6141,7 @@ Aargau;1987;UDF;1.04
 Aargau;1987;PSL;5.33
 Aargau;1987;Lega;
 Aargau;1987;MCR;
-Aargau;1987;Sép.;
+Aargau;1987;Sep.;
 Aargau;1987;Autres;0.91
 Aargau;1983;PLR;20.23
 Aargau;1983;PDC;21.49
@@ -6165,7 +6165,7 @@ Aargau;1983;UDF;
 Aargau;1983;PSL;
 Aargau;1983;Lega;
 Aargau;1983;MCR;
-Aargau;1983;Sép.;
+Aargau;1983;Sep.;
 Aargau;1983;Autres;1.79
 Aargau;1979;PLR;20.54
 Aargau;1979;PDC;22.49
@@ -6189,7 +6189,7 @@ Aargau;1979;UDF;
 Aargau;1979;PSL;
 Aargau;1979;Lega;
 Aargau;1979;MCR;
-Aargau;1979;Sép.;
+Aargau;1979;Sep.;
 Aargau;1979;Autres;1.12
 Aargau;1975;PLR;17.66
 Aargau;1975;PDC;20.65
@@ -6213,7 +6213,7 @@ Aargau;1975;UDF;
 Aargau;1975;PSL;
 Aargau;1975;Lega;
 Aargau;1975;MCR;
-Aargau;1975;Sép.;
+Aargau;1975;Sep.;
 Aargau;1975;Autres;2.88
 Aargau;1971;PLR;15.9
 Aargau;1971;PDC;19.98
@@ -6237,7 +6237,7 @@ Aargau;1971;UDF;
 Aargau;1971;PSL;
 Aargau;1971;Lega;
 Aargau;1971;MCR;
-Aargau;1971;Sép.;
+Aargau;1971;Sep.;
 Aargau;1971;Autres;5.23
 Thurgau;2019;PLR;11.45
 Thurgau;2019;PDC;12.69
@@ -6261,7 +6261,7 @@ Thurgau;2019;UDF;2.85
 Thurgau;2019;PSL;
 Thurgau;2019;Lega;
 Thurgau;2019;MCR;
-Thurgau;2019;Sép.;
+Thurgau;2019;Sep.;
 Thurgau;2019;Autres;
 Thurgau;2015;PLR;13.01
 Thurgau;2015;PDC;13.13
@@ -6285,7 +6285,7 @@ Thurgau;2015;UDF;3.43
 Thurgau;2015;PSL;
 Thurgau;2015;Lega;
 Thurgau;2015;MCR;
-Thurgau;2015;Sép.;
+Thurgau;2015;Sep.;
 Thurgau;2015;Autres;0.16
 Thurgau;2011;PLR;11.25
 Thurgau;2011;PDC;14.37
@@ -6309,7 +6309,7 @@ Thurgau;2011;UDF;3.48
 Thurgau;2011;PSL;
 Thurgau;2011;Lega;
 Thurgau;2011;MCR;
-Thurgau;2011;Sép.;
+Thurgau;2011;Sep.;
 Thurgau;2011;Autres;
 Thurgau;2007;PLR;12.1
 Thurgau;2007;PDC;15.19
@@ -6333,7 +6333,7 @@ Thurgau;2007;UDF;2.63
 Thurgau;2007;PSL;
 Thurgau;2007;Lega;
 Thurgau;2007;MCR;
-Thurgau;2007;Sép.;
+Thurgau;2007;Sep.;
 Thurgau;2007;Autres;1.09
 Thurgau;2003;PLR;11.89
 Thurgau;2003;PDC;16.45
@@ -6357,7 +6357,7 @@ Thurgau;2003;UDF;1.93
 Thurgau;2003;PSL;0.31
 Thurgau;2003;Lega;
 Thurgau;2003;MCR;
-Thurgau;2003;Sép.;
+Thurgau;2003;Sep.;
 Thurgau;2003;Autres;0.69
 Thurgau;1999;PLR;14.68
 Thurgau;1999;PDC;15.75
@@ -6381,7 +6381,7 @@ Thurgau;1999;UDF;1.89
 Thurgau;1999;PSL;2.67
 Thurgau;1999;Lega;
 Thurgau;1999;MCR;
-Thurgau;1999;Sép.;
+Thurgau;1999;Sep.;
 Thurgau;1999;Autres;4.3
 Thurgau;1995;PLR;15.29
 Thurgau;1995;PDC;12.97
@@ -6405,7 +6405,7 @@ Thurgau;1995;UDF;
 Thurgau;1995;PSL;7.97
 Thurgau;1995;Lega;
 Thurgau;1995;MCR;
-Thurgau;1995;Sép.;
+Thurgau;1995;Sep.;
 Thurgau;1995;Autres;1.94
 Thurgau;1991;PLR;16.54
 Thurgau;1991;PDC;16.49
@@ -6429,7 +6429,7 @@ Thurgau;1991;UDF;
 Thurgau;1991;PSL;8.74
 Thurgau;1991;Lega;
 Thurgau;1991;MCR;
-Thurgau;1991;Sép.;
+Thurgau;1991;Sep.;
 Thurgau;1991;Autres;0.46
 Thurgau;1987;PLR;18.49
 Thurgau;1987;PDC;20.44
@@ -6453,7 +6453,7 @@ Thurgau;1987;UDF;
 Thurgau;1987;PSL;6.35
 Thurgau;1987;Lega;
 Thurgau;1987;MCR;
-Thurgau;1987;Sép.;
+Thurgau;1987;Sep.;
 Thurgau;1987;Autres;5.96
 Thurgau;1983;PLR;18.29
 Thurgau;1983;PDC;21.61
@@ -6477,7 +6477,7 @@ Thurgau;1983;UDF;
 Thurgau;1983;PSL;
 Thurgau;1983;Lega;
 Thurgau;1983;MCR;
-Thurgau;1983;Sép.;
+Thurgau;1983;Sep.;
 Thurgau;1983;Autres;
 Thurgau;1979;PLR;16.89
 Thurgau;1979;PDC;24.64
@@ -6501,7 +6501,7 @@ Thurgau;1979;UDF;
 Thurgau;1979;PSL;
 Thurgau;1979;Lega;
 Thurgau;1979;MCR;
-Thurgau;1979;Sép.;
+Thurgau;1979;Sep.;
 Thurgau;1979;Autres;0.4
 Thurgau;1975;PLR;14.42
 Thurgau;1975;PDC;22.28
@@ -6525,7 +6525,7 @@ Thurgau;1975;UDF;
 Thurgau;1975;PSL;
 Thurgau;1975;Lega;
 Thurgau;1975;MCR;
-Thurgau;1975;Sép.;
+Thurgau;1975;Sep.;
 Thurgau;1975;Autres;
 Thurgau;1971;PLR;16.85
 Thurgau;1971;PDC;23.43
@@ -6549,7 +6549,7 @@ Thurgau;1971;UDF;
 Thurgau;1971;PSL;
 Thurgau;1971;Lega;
 Thurgau;1971;MCR;
-Thurgau;1971;Sép.;
+Thurgau;1971;Sep.;
 Thurgau;1971;Autres;
 Ticino;2019;PLR;20.53
 Ticino;2019;PDC;18.2
@@ -6573,7 +6573,7 @@ Ticino;2019;UDF;1.06
 Ticino;2019;PSL;
 Ticino;2019;Lega;16.93
 Ticino;2019;MCR;
-Ticino;2019;Sép.;
+Ticino;2019;Sep.;
 Ticino;2019;Autres;3.63
 Ticino;2015;PLR;23.73
 Ticino;2015;PDC;20.08
@@ -6597,7 +6597,7 @@ Ticino;2015;UDF;
 Ticino;2015;PSL;
 Ticino;2015;Lega;21.68
 Ticino;2015;MCR;
-Ticino;2015;Sép.;
+Ticino;2015;Sep.;
 Ticino;2015;Autres;2.37
 Ticino;2011;PLR;24.85
 Ticino;2011;PDC;19.96
@@ -6621,7 +6621,7 @@ Ticino;2011;UDF;
 Ticino;2011;PSL;
 Ticino;2011;Lega;17.54
 Ticino;2011;MCR;
-Ticino;2011;Sép.;
+Ticino;2011;Sep.;
 Ticino;2011;Autres;3.38
 Ticino;2007;PLR;28.11
 Ticino;2007;PDC;24.13
@@ -6645,7 +6645,7 @@ Ticino;2007;UDF;
 Ticino;2007;PSL;
 Ticino;2007;Lega;14.05
 Ticino;2007;MCR;
-Ticino;2007;Sép.;
+Ticino;2007;Sep.;
 Ticino;2007;Autres;0.78
 Ticino;2003;PLR;29.79
 Ticino;2003;PDC;24.58
@@ -6669,7 +6669,7 @@ Ticino;2003;UDF;
 Ticino;2003;PSL;
 Ticino;2003;Lega;7.96
 Ticino;2003;MCR;
-Ticino;2003;Sép.;
+Ticino;2003;Sep.;
 Ticino;2003;Autres;1.3
 Ticino;1999;PLR;27.69
 Ticino;1999;PDC;25.92
@@ -6693,7 +6693,7 @@ Ticino;1999;UDF;
 Ticino;1999;PSL;
 Ticino;1999;Lega;18.52
 Ticino;1999;MCR;
-Ticino;1999;Sép.;
+Ticino;1999;Sep.;
 Ticino;1999;Autres;0.86
 Ticino;1995;PLR;30.47
 Ticino;1995;PDC;28.36
@@ -6717,7 +6717,7 @@ Ticino;1995;UDF;
 Ticino;1995;PSL;
 Ticino;1995;Lega;18.6
 Ticino;1995;MCR;
-Ticino;1995;Sép.;
+Ticino;1995;Sep.;
 Ticino;1995;Autres;0.95
 Ticino;1991;PLR;29.43
 Ticino;1991;PDC;26.94
@@ -6741,7 +6741,7 @@ Ticino;1991;UDF;
 Ticino;1991;PSL;
 Ticino;1991;Lega;23.53
 Ticino;1991;MCR;
-Ticino;1991;Sép.;
+Ticino;1991;Sep.;
 Ticino;1991;Autres;0.77
 Ticino;1987;PLR;34.83
 Ticino;1987;PDC;38.24
@@ -6765,7 +6765,7 @@ Ticino;1987;UDF;
 Ticino;1987;PSL;
 Ticino;1987;Lega;
 Ticino;1987;MCR;
-Ticino;1987;Sép.;
+Ticino;1987;Sep.;
 Ticino;1987;Autres;1.43
 Ticino;1983;PLR;37.89
 Ticino;1983;PDC;33.96
@@ -6789,7 +6789,7 @@ Ticino;1983;UDF;
 Ticino;1983;PSL;
 Ticino;1983;Lega;
 Ticino;1983;MCR;
-Ticino;1983;Sép.;
+Ticino;1983;Sep.;
 Ticino;1983;Autres;1.76
 Ticino;1979;PLR;36.29
 Ticino;1979;PDC;34.12
@@ -6813,7 +6813,7 @@ Ticino;1979;UDF;
 Ticino;1979;PSL;
 Ticino;1979;Lega;
 Ticino;1979;MCR;
-Ticino;1979;Sép.;
+Ticino;1979;Sep.;
 Ticino;1979;Autres;
 Ticino;1975;PLR;39.1
 Ticino;1975;PDC;35.66
@@ -6837,7 +6837,7 @@ Ticino;1975;UDF;
 Ticino;1975;PSL;
 Ticino;1975;Lega;
 Ticino;1975;MCR;
-Ticino;1975;Sép.;
+Ticino;1975;Sep.;
 Ticino;1975;Autres;0.24
 Ticino;1971;PLR;38.42
 Ticino;1971;PDC;34.81
@@ -6861,7 +6861,7 @@ Ticino;1971;UDF;
 Ticino;1971;PSL;
 Ticino;1971;Lega;
 Ticino;1971;MCR;
-Ticino;1971;Sép.;
+Ticino;1971;Sep.;
 Ticino;1971;Autres;
 Vaud;2019;PLR;23.34
 Vaud;2019;PDC;2.43
@@ -6885,7 +6885,7 @@ Vaud;2019;UDF;0.33
 Vaud;2019;PSL;
 Vaud;2019;Lega;
 Vaud;2019;MCR;
-Vaud;2019;Sép.;
+Vaud;2019;Sep.;
 Vaud;2019;Autres;2.27
 Vaud;2015;PLR;26.84
 Vaud;2015;PDC;4.05
@@ -6909,7 +6909,7 @@ Vaud;2015;UDF;0.7
 Vaud;2015;PSL;
 Vaud;2015;Lega;
 Vaud;2015;MCR;
-Vaud;2015;Sép.;
+Vaud;2015;Sep.;
 Vaud;2015;Autres;2.63
 Vaud;2011;PLR;16.27
 Vaud;2011;PDC;4.63
@@ -6933,7 +6933,7 @@ Vaud;2011;UDF;1.1
 Vaud;2011;PSL;
 Vaud;2011;Lega;
 Vaud;2011;MCR;0.53
-Vaud;2011;Sép.;
+Vaud;2011;Sep.;
 Vaud;2011;Autres;1.07
 Vaud;2007;PLR;14.56
 Vaud;2007;PDC;5.61
@@ -6957,7 +6957,7 @@ Vaud;2007;UDF;1.26
 Vaud;2007;PSL;
 Vaud;2007;Lega;
 Vaud;2007;MCR;
-Vaud;2007;Sép.;
+Vaud;2007;Sep.;
 Vaud;2007;Autres;3.67
 Vaud;2003;PLR;18.5
 Vaud;2003;PDC;4.44
@@ -6981,7 +6981,7 @@ Vaud;2003;UDF;1.77
 Vaud;2003;PSL;
 Vaud;2003;Lega;
 Vaud;2003;MCR;
-Vaud;2003;Sép.;
+Vaud;2003;Sep.;
 Vaud;2003;Autres;0.51
 Vaud;1999;PLR;24.99
 Vaud;1999;PDC;4.5
@@ -7005,7 +7005,7 @@ Vaud;1999;UDF;2.75
 Vaud;1999;PSL;
 Vaud;1999;Lega;
 Vaud;1999;MCR;
-Vaud;1999;Sép.;
+Vaud;1999;Sep.;
 Vaud;1999;Autres;4.18
 Vaud;1995;PLR;23.44
 Vaud;1995;PDC;5.65
@@ -7029,7 +7029,7 @@ Vaud;1995;UDF;2.73
 Vaud;1995;PSL;
 Vaud;1995;Lega;
 Vaud;1995;MCR;
-Vaud;1995;Sép.;
+Vaud;1995;Sep.;
 Vaud;1995;Autres;3.07
 Vaud;1991;PLR;26.35
 Vaud;1991;PDC;3.55
@@ -7053,7 +7053,7 @@ Vaud;1991;UDF;
 Vaud;1991;PSL;2.49
 Vaud;1991;Lega;
 Vaud;1991;MCR;
-Vaud;1991;Sép.;
+Vaud;1991;Sep.;
 Vaud;1991;Autres;1.85
 Vaud;1987;PLR;27.59
 Vaud;1987;PDC;4.09
@@ -7077,7 +7077,7 @@ Vaud;1987;UDF;1.11
 Vaud;1987;PSL;
 Vaud;1987;Lega;
 Vaud;1987;MCR;
-Vaud;1987;Sép.;
+Vaud;1987;Sep.;
 Vaud;1987;Autres;2.76
 Vaud;1983;PLR;30.42
 Vaud;1983;PDC;4.52
@@ -7101,7 +7101,7 @@ Vaud;1983;UDF;
 Vaud;1983;PSL;
 Vaud;1983;Lega;
 Vaud;1983;MCR;
-Vaud;1983;Sép.;
+Vaud;1983;Sep.;
 Vaud;1983;Autres;2.62
 Vaud;1979;PLR;27.07
 Vaud;1979;PDC;5.08
@@ -7125,7 +7125,7 @@ Vaud;1979;UDF;
 Vaud;1979;PSL;
 Vaud;1979;Lega;
 Vaud;1979;MCR;
-Vaud;1979;Sép.;
+Vaud;1979;Sep.;
 Vaud;1979;Autres;2.9
 Vaud;1975;PLR;25.63
 Vaud;1975;PDC;4.61
@@ -7149,7 +7149,7 @@ Vaud;1975;UDF;1.04
 Vaud;1975;PSL;
 Vaud;1975;Lega;
 Vaud;1975;MCR;
-Vaud;1975;Sép.;
+Vaud;1975;Sep.;
 Vaud;1975;Autres;1.58
 Vaud;1971;PLR;26.04
 Vaud;1971;PDC;5.26
@@ -7173,7 +7173,7 @@ Vaud;1971;UDF;
 Vaud;1971;PSL;
 Vaud;1971;Lega;
 Vaud;1971;MCR;
-Vaud;1971;Sép.;
+Vaud;1971;Sep.;
 Vaud;1971;Autres;
 Valais / Wallis;2019;PLR;16.48
 Valais / Wallis;2019;PDC;34.78
@@ -7197,7 +7197,7 @@ Valais / Wallis;2019;UDF;
 Valais / Wallis;2019;PSL;
 Valais / Wallis;2019;Lega;
 Valais / Wallis;2019;MCR;
-Valais / Wallis;2019;Sép.;
+Valais / Wallis;2019;Sep.;
 Valais / Wallis;2019;Autres;1.48
 Valais / Wallis;2015;PLR;18.14
 Valais / Wallis;2015;PDC;39.79
@@ -7221,7 +7221,7 @@ Valais / Wallis;2015;UDF;
 Valais / Wallis;2015;PSL;
 Valais / Wallis;2015;Lega;
 Valais / Wallis;2015;MCR;
-Valais / Wallis;2015;Sép.;
+Valais / Wallis;2015;Sep.;
 Valais / Wallis;2015;Autres;0.37
 Valais / Wallis;2011;PLR;18.8
 Valais / Wallis;2011;PDC;39.9
@@ -7245,7 +7245,7 @@ Valais / Wallis;2011;UDF;
 Valais / Wallis;2011;PSL;
 Valais / Wallis;2011;Lega;
 Valais / Wallis;2011;MCR;
-Valais / Wallis;2011;Sép.;
+Valais / Wallis;2011;Sep.;
 Valais / Wallis;2011;Autres;
 Valais / Wallis;2007;PLR;15.97
 Valais / Wallis;2007;PDC;44.92
@@ -7269,7 +7269,7 @@ Valais / Wallis;2007;UDF;
 Valais / Wallis;2007;PSL;
 Valais / Wallis;2007;Lega;
 Valais / Wallis;2007;MCR;
-Valais / Wallis;2007;Sép.;
+Valais / Wallis;2007;Sep.;
 Valais / Wallis;2007;Autres;1.77
 Valais / Wallis;2003;PLR;17.08
 Valais / Wallis;2003;PDC;47.89
@@ -7293,7 +7293,7 @@ Valais / Wallis;2003;UDF;
 Valais / Wallis;2003;PSL;
 Valais / Wallis;2003;Lega;
 Valais / Wallis;2003;MCR;
-Valais / Wallis;2003;Sép.;
+Valais / Wallis;2003;Sep.;
 Valais / Wallis;2003;Autres;
 Valais / Wallis;1999;PLR;18.83
 Valais / Wallis;1999;PDC;51.41
@@ -7317,7 +7317,7 @@ Valais / Wallis;1999;UDF;
 Valais / Wallis;1999;PSL;
 Valais / Wallis;1999;Lega;
 Valais / Wallis;1999;MCR;
-Valais / Wallis;1999;Sép.;
+Valais / Wallis;1999;Sep.;
 Valais / Wallis;1999;Autres;
 Valais / Wallis;1995;PLR;24.13
 Valais / Wallis;1995;PDC;54.88
@@ -7341,7 +7341,7 @@ Valais / Wallis;1995;UDF;
 Valais / Wallis;1995;PSL;
 Valais / Wallis;1995;Lega;
 Valais / Wallis;1995;MCR;
-Valais / Wallis;1995;Sép.;
+Valais / Wallis;1995;Sep.;
 Valais / Wallis;1995;Autres;
 Valais / Wallis;1991;PLR;25.9
 Valais / Wallis;1991;PDC;54.38
@@ -7365,7 +7365,7 @@ Valais / Wallis;1991;UDF;
 Valais / Wallis;1991;PSL;
 Valais / Wallis;1991;Lega;
 Valais / Wallis;1991;MCR;
-Valais / Wallis;1991;Sép.;
+Valais / Wallis;1991;Sep.;
 Valais / Wallis;1991;Autres;
 Valais / Wallis;1987;PLR;24.55
 Valais / Wallis;1987;PDC;58.69
@@ -7389,7 +7389,7 @@ Valais / Wallis;1987;UDF;
 Valais / Wallis;1987;PSL;
 Valais / Wallis;1987;Lega;
 Valais / Wallis;1987;MCR;
-Valais / Wallis;1987;Sép.;
+Valais / Wallis;1987;Sep.;
 Valais / Wallis;1987;Autres;0.57
 Valais / Wallis;1983;PLR;25.13
 Valais / Wallis;1983;PDC;57.52
@@ -7413,7 +7413,7 @@ Valais / Wallis;1983;UDF;
 Valais / Wallis;1983;PSL;
 Valais / Wallis;1983;Lega;
 Valais / Wallis;1983;MCR;
-Valais / Wallis;1983;Sép.;
+Valais / Wallis;1983;Sep.;
 Valais / Wallis;1983;Autres;3.23
 Valais / Wallis;1979;PLR;22.65
 Valais / Wallis;1979;PDC;58.81
@@ -7437,7 +7437,7 @@ Valais / Wallis;1979;UDF;
 Valais / Wallis;1979;PSL;
 Valais / Wallis;1979;Lega;
 Valais / Wallis;1979;MCR;
-Valais / Wallis;1979;Sép.;
+Valais / Wallis;1979;Sep.;
 Valais / Wallis;1979;Autres;6.17
 Valais / Wallis;1975;PLR;18.86
 Valais / Wallis;1975;PDC;59.74
@@ -7461,7 +7461,7 @@ Valais / Wallis;1975;UDF;
 Valais / Wallis;1975;PSL;
 Valais / Wallis;1975;Lega;
 Valais / Wallis;1975;MCR;
-Valais / Wallis;1975;Sép.;
+Valais / Wallis;1975;Sep.;
 Valais / Wallis;1975;Autres;3.98
 Valais / Wallis;1971;PLR;19.28
 Valais / Wallis;1971;PDC;61.57
@@ -7485,7 +7485,7 @@ Valais / Wallis;1971;UDF;
 Valais / Wallis;1971;PSL;
 Valais / Wallis;1971;Lega;
 Valais / Wallis;1971;MCR;
-Valais / Wallis;1971;Sép.;
+Valais / Wallis;1971;Sep.;
 Valais / Wallis;1971;Autres;3.68
 Neuchâtel;2019;PLR;22.35
 Neuchâtel;2019;PDC;4.17
@@ -7509,7 +7509,7 @@ Neuchâtel;2019;UDF;
 Neuchâtel;2019;PSL;
 Neuchâtel;2019;Lega;
 Neuchâtel;2019;MCR;
-Neuchâtel;2019;Sép.;
+Neuchâtel;2019;Sep.;
 Neuchâtel;2019;Autres;0.19
 Neuchâtel;2015;PLR;24.43
 Neuchâtel;2015;PDC;3.57
@@ -7533,7 +7533,7 @@ Neuchâtel;2015;UDF;
 Neuchâtel;2015;PSL;
 Neuchâtel;2015;Lega;
 Neuchâtel;2015;MCR;
-Neuchâtel;2015;Sép.;
+Neuchâtel;2015;Sep.;
 Neuchâtel;2015;Autres;2.09
 Neuchâtel;2011;PLR;26.86
 Neuchâtel;2011;PDC;3.49
@@ -7557,7 +7557,7 @@ Neuchâtel;2011;UDF;
 Neuchâtel;2011;PSL;
 Neuchâtel;2011;Lega;
 Neuchâtel;2011;MCR;
-Neuchâtel;2011;Sép.;
+Neuchâtel;2011;Sep.;
 Neuchâtel;2011;Autres;
 Neuchâtel;2007;PLR;12.7
 Neuchâtel;2007;PDC;3.35
@@ -7581,7 +7581,7 @@ Neuchâtel;2007;UDF;
 Neuchâtel;2007;PSL;
 Neuchâtel;2007;Lega;
 Neuchâtel;2007;MCR;
-Neuchâtel;2007;Sép.;
+Neuchâtel;2007;Sep.;
 Neuchâtel;2007;Autres;1.84
 Neuchâtel;2003;PLR;14.82
 Neuchâtel;2003;PDC;
@@ -7605,7 +7605,7 @@ Neuchâtel;2003;UDF;
 Neuchâtel;2003;PSL;
 Neuchâtel;2003;Lega;
 Neuchâtel;2003;MCR;
-Neuchâtel;2003;Sép.;
+Neuchâtel;2003;Sep.;
 Neuchâtel;2003;Autres;
 Neuchâtel;1999;PLR;20.53
 Neuchâtel;1999;PDC;
@@ -7629,7 +7629,7 @@ Neuchâtel;1999;UDF;
 Neuchâtel;1999;PSL;
 Neuchâtel;1999;Lega;
 Neuchâtel;1999;MCR;
-Neuchâtel;1999;Sép.;
+Neuchâtel;1999;Sep.;
 Neuchâtel;1999;Autres;1.03
 Neuchâtel;1995;PLR;25.68
 Neuchâtel;1995;PDC;
@@ -7653,7 +7653,7 @@ Neuchâtel;1995;UDF;2.29
 Neuchâtel;1995;PSL;
 Neuchâtel;1995;Lega;
 Neuchâtel;1995;MCR;
-Neuchâtel;1995;Sép.;
+Neuchâtel;1995;Sep.;
 Neuchâtel;1995;Autres;3.2
 Neuchâtel;1991;PLR;22.5
 Neuchâtel;1991;PDC;
@@ -7677,7 +7677,7 @@ Neuchâtel;1991;UDF;
 Neuchâtel;1991;PSL;
 Neuchâtel;1991;Lega;
 Neuchâtel;1991;MCR;
-Neuchâtel;1991;Sép.;
+Neuchâtel;1991;Sep.;
 Neuchâtel;1991;Autres;1.08
 Neuchâtel;1987;PLR;20.45
 Neuchâtel;1987;PDC;
@@ -7701,7 +7701,7 @@ Neuchâtel;1987;UDF;
 Neuchâtel;1987;PSL;
 Neuchâtel;1987;Lega;
 Neuchâtel;1987;MCR;
-Neuchâtel;1987;Sép.;
+Neuchâtel;1987;Sep.;
 Neuchâtel;1987;Autres;4.5
 Neuchâtel;1983;PLR;19.43
 Neuchâtel;1983;PDC;
@@ -7725,7 +7725,7 @@ Neuchâtel;1983;UDF;
 Neuchâtel;1983;PSL;
 Neuchâtel;1983;Lega;
 Neuchâtel;1983;MCR;
-Neuchâtel;1983;Sép.;
+Neuchâtel;1983;Sep.;
 Neuchâtel;1983;Autres;1.42
 Neuchâtel;1979;PLR;20.58
 Neuchâtel;1979;PDC;
@@ -7749,7 +7749,7 @@ Neuchâtel;1979;UDF;
 Neuchâtel;1979;PSL;
 Neuchâtel;1979;Lega;
 Neuchâtel;1979;MCR;
-Neuchâtel;1979;Sép.;
+Neuchâtel;1979;Sep.;
 Neuchâtel;1979;Autres;3.1
 Neuchâtel;1975;PLR;22.39
 Neuchâtel;1975;PDC;
@@ -7773,7 +7773,7 @@ Neuchâtel;1975;UDF;
 Neuchâtel;1975;PSL;
 Neuchâtel;1975;Lega;
 Neuchâtel;1975;MCR;
-Neuchâtel;1975;Sép.;
+Neuchâtel;1975;Sep.;
 Neuchâtel;1975;Autres;6.83
 Neuchâtel;1971;PLR;24.32
 Neuchâtel;1971;PDC;
@@ -7797,7 +7797,7 @@ Neuchâtel;1971;UDF;
 Neuchâtel;1971;PSL;
 Neuchâtel;1971;Lega;
 Neuchâtel;1971;MCR;
-Neuchâtel;1971;Sép.;
+Neuchâtel;1971;Sep.;
 Neuchâtel;1971;Autres;5.37
 Genève;2019;PLR;17.93
 Genève;2019;PDC;7.66
@@ -7821,7 +7821,7 @@ Genève;2019;UDF;0.11
 Genève;2019;PSL;
 Genève;2019;Lega;
 Genève;2019;MCR;5.37
-Genève;2019;Sép.;
+Genève;2019;Sep.;
 Genève;2019;Autres;1.99
 Genève;2015;PLR;20.51
 Genève;2015;PDC;12.05
@@ -7845,7 +7845,7 @@ Genève;2015;UDF;0.22
 Genève;2015;PSL;
 Genève;2015;Lega;
 Genève;2015;MCR;7.88
-Genève;2015;Sép.;
+Genève;2015;Sep.;
 Genève;2015;Autres;0.35
 Genève;2011;PLR;18.65
 Genève;2011;PDC;9.77
@@ -7869,7 +7869,7 @@ Genève;2011;UDF;
 Genève;2011;PSL;
 Genève;2011;Lega;
 Genève;2011;MCR;9.78
-Genève;2011;Sép.;
+Genève;2011;Sep.;
 Genève;2011;Autres;1.95
 Genève;2007;PLR;7.75
 Genève;2007;PDC;9.7
@@ -7893,7 +7893,7 @@ Genève;2007;UDF;
 Genève;2007;PSL;
 Genève;2007;Lega;
 Genève;2007;MCR;2.51
-Genève;2007;Sép.;
+Genève;2007;Sep.;
 Genève;2007;Autres;0.74
 Genève;2003;PLR;7.28
 Genève;2003;PDC;11.82
@@ -7917,7 +7917,7 @@ Genève;2003;UDF;
 Genève;2003;PSL;
 Genève;2003;Lega;
 Genève;2003;MCR;
-Genève;2003;Sép.;
+Genève;2003;Sep.;
 Genève;2003;Autres;1.68
 Genève;1999;PLR;12.68
 Genève;1999;PDC;14.1
@@ -7941,7 +7941,7 @@ Genève;1999;UDF;
 Genève;1999;PSL;
 Genève;1999;Lega;
 Genève;1999;MCR;
-Genève;1999;Sép.;
+Genève;1999;Sep.;
 Genève;1999;Autres;2.35
 Genève;1995;PLR;13.49
 Genève;1995;PDC;13.36
@@ -7965,7 +7965,7 @@ Genève;1995;UDF;
 Genève;1995;PSL;
 Genève;1995;Lega;
 Genève;1995;MCR;
-Genève;1995;Sép.;
+Genève;1995;Sep.;
 Genève;1995;Autres;4.18
 Genève;1991;PLR;12.84
 Genève;1991;PDC;14.5
@@ -7989,7 +7989,7 @@ Genève;1991;UDF;
 Genève;1991;PSL;3.02
 Genève;1991;Lega;
 Genève;1991;MCR;
-Genève;1991;Sép.;
+Genève;1991;Sep.;
 Genève;1991;Autres;3.43
 Genève;1987;PLR;18.02
 Genève;1987;PDC;14.59
@@ -8013,7 +8013,7 @@ Genève;1987;UDF;
 Genève;1987;PSL;
 Genève;1987;Lega;
 Genève;1987;MCR;
-Genève;1987;Sép.;
+Genève;1987;Sep.;
 Genève;1987;Autres;2.48
 Genève;1983;PLR;16.18
 Genève;1983;PDC;12.29
@@ -8037,7 +8037,7 @@ Genève;1983;UDF;
 Genève;1983;PSL;
 Genève;1983;Lega;
 Genève;1983;MCR;
-Genève;1983;Sép.;
+Genève;1983;Sep.;
 Genève;1983;Autres;1.74
 Genève;1979;PLR;14.72
 Genève;1979;PDC;14
@@ -8061,7 +8061,7 @@ Genève;1979;UDF;
 Genève;1979;PSL;
 Genève;1979;Lega;
 Genève;1979;MCR;
-Genève;1979;Sép.;
+Genève;1979;Sep.;
 Genève;1979;Autres;1.5
 Genève;1975;PLR;16.6
 Genève;1975;PDC;14.66
@@ -8085,7 +8085,7 @@ Genève;1975;UDF;
 Genève;1975;PSL;
 Genève;1975;Lega;
 Genève;1975;MCR;
-Genève;1975;Sép.;
+Genève;1975;Sep.;
 Genève;1975;Autres;1.08
 Genève;1971;PLR;19.19
 Genève;1971;PDC;13.76
@@ -8109,7 +8109,7 @@ Genève;1971;UDF;
 Genève;1971;PSL;
 Genève;1971;Lega;
 Genève;1971;MCR;
-Genève;1971;Sép.;
+Genève;1971;Sep.;
 Genève;1971;Autres;
 Jura;2019;PLR;9.07
 Jura;2019;PDC;22.76
@@ -8133,7 +8133,7 @@ Jura;2019;UDF;
 Jura;2019;PSL;
 Jura;2019;Lega;
 Jura;2019;MCR;
-Jura;2019;Sép.;
+Jura;2019;Sep.;
 Jura;2019;Autres;
 Jura;2015;PLR;16.78
 Jura;2015;PDC;27.63
@@ -8157,7 +8157,7 @@ Jura;2015;UDF;
 Jura;2015;PSL;
 Jura;2015;Lega;
 Jura;2015;MCR;
-Jura;2015;Sép.;
+Jura;2015;Sep.;
 Jura;2015;Autres;1.36
 Jura;2011;PLR;9.5
 Jura;2011;PDC;33.25
@@ -8181,7 +8181,7 @@ Jura;2011;UDF;
 Jura;2011;PSL;
 Jura;2011;Lega;
 Jura;2011;MCR;
-Jura;2011;Sép.;
+Jura;2011;Sep.;
 Jura;2011;Autres;
 Jura;2007;PLR;13.35
 Jura;2007;PDC;24.99
@@ -8205,7 +8205,7 @@ Jura;2007;UDF;
 Jura;2007;PSL;
 Jura;2007;Lega;
 Jura;2007;MCR;
-Jura;2007;Sép.;
+Jura;2007;Sep.;
 Jura;2007;Autres;
 Jura;2003;PLR;16.29
 Jura;2003;PDC;39.45
@@ -8229,7 +8229,7 @@ Jura;2003;UDF;1.79
 Jura;2003;PSL;
 Jura;2003;Lega;
 Jura;2003;MCR;
-Jura;2003;Sép.;
+Jura;2003;Sep.;
 Jura;2003;Autres;
 Jura;1999;PLR;19.48
 Jura;1999;PDC;39.19
@@ -8253,7 +8253,7 @@ Jura;1999;UDF;
 Jura;1999;PSL;
 Jura;1999;Lega;
 Jura;1999;MCR;
-Jura;1999;Sép.;
+Jura;1999;Sep.;
 Jura;1999;Autres;
 Jura;1995;PLR;29.47
 Jura;1995;PDC;38.18
@@ -8277,7 +8277,7 @@ Jura;1995;UDF;
 Jura;1995;PSL;
 Jura;1995;Lega;
 Jura;1995;MCR;
-Jura;1995;Sép.;
+Jura;1995;Sep.;
 Jura;1995;Autres;
 Jura;1991;PLR;35.13
 Jura;1991;PDC;36.04
@@ -8301,7 +8301,7 @@ Jura;1991;UDF;
 Jura;1991;PSL;
 Jura;1991;Lega;
 Jura;1991;MCR;
-Jura;1991;Sép.;
+Jura;1991;Sep.;
 Jura;1991;Autres;
 Jura;1987;PLR;33.44
 Jura;1987;PDC;33.04
@@ -8325,7 +8325,7 @@ Jura;1987;UDF;
 Jura;1987;PSL;
 Jura;1987;Lega;
 Jura;1987;MCR;
-Jura;1987;Sép.;
+Jura;1987;Sep.;
 Jura;1987;Autres;
 Jura;1983;PLR;28.78
 Jura;1983;PDC;25.08
@@ -8349,7 +8349,7 @@ Jura;1983;UDF;
 Jura;1983;PSL;
 Jura;1983;Lega;
 Jura;1983;MCR;
-Jura;1983;Sép.;
+Jura;1983;Sep.;
 Jura;1983;Autres;14.53
 Jura;1979;PLR;30.9
 Jura;1979;PDC;37.7
@@ -8373,7 +8373,7 @@ Jura;1979;UDF;
 Jura;1979;PSL;
 Jura;1979;Lega;
 Jura;1979;MCR;
-Jura;1979;Sép.;
+Jura;1979;Sep.;
 Jura;1979;Autres;31.4
 Jura;1975;PLR;
 Jura;1975;PDC;
@@ -8397,7 +8397,7 @@ Jura;1975;UDF;
 Jura;1975;PSL;
 Jura;1975;Lega;
 Jura;1975;MCR;
-Jura;1975;Sép.;
+Jura;1975;Sep.;
 Jura;1975;Autres;
 Jura;1971;PLR;
 Jura;1971;PDC;
@@ -8421,5 +8421,5 @@ Jura;1971;UDF;
 Jura;1971;PSL;
 Jura;1971;Lega;
 Jura;1971;MCR;
-Jura;1971;Sép.;
+Jura;1971;Sep.;
 Jura;1971;Autres;
